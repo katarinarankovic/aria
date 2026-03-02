@@ -13,12 +13,9 @@ theme:
     - search.highlight
 
 nav:
-  - Home: index.md
-  - Libretto: libretto.md
+  - Libretto: index.md
   - Sketches: sketches.md
   - License: license.md
-  - Contributing: contributing.md
-  - Editions: editions.md
 
 markdown_extensions:
   - admonition
