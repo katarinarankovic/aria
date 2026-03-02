@@ -17,4 +17,4 @@ All authorised productions must:
 
 To request permission or discuss a production proposal, please contact: [kat.rankovic@gmail.com](mailto:kat.rankovic@gmail.com).
 
-© Katarina Ranković, 2025. All rights reserved.
+© Katarina Ranković, 2026. All rights reserved.
