@@ -2,9 +2,9 @@
 
 _Aria and the Curtain_ is a publicly readable digital opera libretto written by [Katarina Ranković](https://www.youtube.com/katdrinktea). 
 
-This site is the home of the [libretto](libretto.md). Throughout this libretto, you will find links to clips of Katarina singing and performing simple choreographies. These clips are illustrative only and are presented as sketches or notation to be further interpreted by composers, directors and singers.
+This site is the home of the [libretto](libretto.md). 
 
-This libretto can be provided as a performance programme.
+Throughout the libretto, you will find links to clips of Katarina singing and performing simple choreographies. These clips are illustrative only and are presented as sketches or notation to be further interpreted by composers, directors and singers. 
 
 ![Aria and the Curtain — cover image](assets/aria-cover.jpg)
 
