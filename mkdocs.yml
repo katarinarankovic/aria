@@ -1,1 +1,28 @@
+site_name: Aria and the Curtain
+site_description: Libretto + song sketches (canonical, versioned)
+site_url: https://katarinarankovic.github.io/aria/
 
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Libretto: libretto.md
+  - Sketches: sketches.md
+  - Licensing: licensing.md
+  - Contributing: contributing.md
+  - Editions: editions.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
