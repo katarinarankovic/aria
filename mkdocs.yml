@@ -13,8 +13,8 @@ theme:
     - search.highlight
 
 nav:
-  - Libretto: index.md
-  - Sketches: sketches.md
+  - Aria: index.md
+  - Libretto: libretto.md
   - License: license.md
 
 markdown_extensions:
