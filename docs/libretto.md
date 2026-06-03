@@ -365,6 +365,47 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 
 AUDIO
 
+#### 15. chorus: _frozen_
+
+> I’m beginning to realise  
+> that the skies which I thought I occupied  
+> the air which I once called my blood  
+> runs free  
+> without me (x2)  
+>
+> parts of myself upon which I felt  
+> I had some sovereignty  
+> now escape me  
+>
+> and worlds apart, from time depart  
+> I’m saved  
+> yet, 
+>
+> aeons, aeons follow me  
+> I ebb, I flow, and yet I know  
+> I’m static in the human soul  
+> wherever I do go  
+>
+> I’m beginning to see  
+> that although the aeons follow me  
+> I’m again and again  
+> returning the same  
+> frozen on the spot  
+>
+> fly away to distant times  
+> gloss over the countless crimes  
+> committed by song  
+> when applied to causes wrong  
+>
+> I’m beginning to realise  
+> that the skies which I thought I occupied  
+> the air which I once called my blood  
+> runs free  
+> without me  
+
+AUDIO
+
+#### 16. chorus: _no book burning_
 
 
 ### act three: *resist*
