@@ -28,3 +28,9 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/toc-collapse.css
+
+extra_javascript:
+  - javascripts/toc-collapse.js
