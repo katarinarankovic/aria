@@ -1,4 +1,7 @@
-.md-nav__item--toc {
+/* TEST: outline the TOC area (works across Material variants) */
+.md-nav__item--toc,
+nav[aria-label="Table of contents"],
+.md-nav--secondary {
   outline: 2px solid red !important;
 }
 /* Only target the integrated TOC section */
