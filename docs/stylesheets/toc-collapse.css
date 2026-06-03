@@ -1,22 +1,24 @@
-/* Only target the integrated TOC section */
-.md-nav__item--toc li.md-nav__item.has-children > ul.md-nav__list {
-  margin-left: 0.75rem;
-}
+/* Apply collapse behavior specifically inside the TOC nav found in your console:
+   <nav class="md-nav md-nav--secondary" aria-label="Table of contents"> ... */
 
-/* Collapsed: hide the subtree */
-.md-nav__item--toc li.md-nav__item.is-collapsed > ul.md-nav__list {
+.md-nav--secondary li.is-collapsed > ul {
   display: none;
 }
 
-/* Add a small arrow indicator to TOC items that have children */
-.md-nav__item--toc li.md-nav__item.has-children > a.md-nav__link::after {
+/* Optional: indent nested TOC lists a bit */
+.md-nav--secondary ul ul {
+  margin-left: 0.75rem;
+}
+
+/* Add disclosure arrows on items that have children */
+.md-nav--secondary li.has-children > a::after {
   content: "▸";
   float: right;
   opacity: 0.6;
   font-size: 0.9em;
 }
 
-/* Expanded state arrow */
-.md-nav__item--toc li.md-nav__item.is-expanded > a.md-nav__link::after {
+/* Expanded arrow */
+.md-nav--secondary li.is-expanded > a::after {
   content: "▾";
 }
