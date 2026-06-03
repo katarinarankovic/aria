@@ -1,0 +1,22 @@
+/* Only target the integrated TOC section */
+.md-nav__item--toc li.md-nav__item.has-children > ul.md-nav__list {
+  margin-left: 0.75rem;
+}
+
+/* Collapsed: hide the subtree */
+.md-nav__item--toc li.md-nav__item.is-collapsed > ul.md-nav__list {
+  display: none;
+}
+
+/* Add a small arrow indicator to TOC items that have children */
+.md-nav__item--toc li.md-nav__item.has-children > a.md-nav__link::after {
+  content: "▸";
+  float: right;
+  opacity: 0.6;
+  font-size: 0.9em;
+}
+
+/* Expanded state arrow */
+.md-nav__item--toc li.md-nav__item.is-expanded > a.md-nav__link::after {
+  content: "▾";
+}
