@@ -429,7 +429,66 @@ AUDIO
 
 AUDIO
 
+#### 18. aria: _no guarantee_
 
+> there's no guarantee  
+> of lasting sovereignty  
+> who'll be there to grieve  
+> when I've ceased to be?  
+
+AUDIO
+
+#### 19. chorus: _evaporated_
+
+> but I evaporated at the blink of an eye  
+> and so my life repeated, almost passing me by  
+>
+> and so you might forgive me  
+> for losing my faith in you  
+> for losing my faith in you  
+> for losing my faith in me  
+
+AUDIO
+
+#### 20. chorus: _my purpose left me_
+
+> somewhere I once felt  
+> somewhere I once sang  
+> I was left in grief  
+> my purpose had left me  
+> 
+> the future needs me  
+> but finds me faulty  
+> I was left bereaved  
+> my purpose had left me  
+>
+> my purpose left me  
+> my purpose left me  
+> and shortchanged me (x 2)  
+>
+> somewhere I once breathed  
+> somewhere I once sang  
+> my purpose had left me  
+> and I sank into sleep  
+>
+> the future needs me  
+> but finds me faulty  
+> I was left bereaved  
+> my purpose had left me  
+>
+> my purpose left me  
+> my purpose left me  
+> and shortchanged me (x 2)  
+>
+> and I passed in and out of minds  
+> and in and out of  
+> in and out of  
+> in and out of minds  
+>
+> drifting feelings  
+> expensive ceilings (x 2)
+
+AUDIO
 
 ### act three: *resist*
 
