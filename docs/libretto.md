@@ -195,6 +195,7 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 > spiral underneath the chairs  
 > I am neither here nor there  
 > close but also everywhere
+{: .lyrics }
 
 AUDIO
 VIDEO
