@@ -1,10 +1,13 @@
-/* Make the left sidebar feel distinct without disturbing layout */
-.md-sidebar--primary {
-  background-color: #f7f7f7;
-  border-right: 1px solid #e6e6e6;
+/* Lyric blocks */
+.lyrics {
+  background: #f0f0f0;           /* light grey box */
+  border-left: 4px solid #c7c7c7; /* keep a hint of the quote bar */
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border-radius: 4px;
 }
 
-/* Keep content area clean */
-.md-content {
-  background-color: #ffffff;
+/* Optional: make lyric text feel more “set” */
+.lyrics p {
+  margin: 0.15rem 0;
 }
