@@ -8,8 +8,7 @@ theme:
     scheme: default
     primary: black
     accent: grey
-  icon:
-    logo: assets/logo.png
+  logo: assets/logo.png
   features:
     - navigation.instant
     - navigation.tracking
