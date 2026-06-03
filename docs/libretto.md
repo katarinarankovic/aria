@@ -105,12 +105,12 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 > to recall only now how to breathe  
 > and for this sip of air  
 > to taste so sweet? (x 2)  
->  
+> <br> 
 > and this time effaced  
 > and this face replaced  
 > but a mark, but a trace  
 > remains  
->  
+> <br> 
 > what is different what is same  
 > carried under the same name   
 > Aria!  
