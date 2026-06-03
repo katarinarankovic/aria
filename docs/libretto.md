@@ -92,6 +92,7 @@ _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pai
 
 > _The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations._
 
+<!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
 
 _Searching for something to hold on to, AVATAR leans on a SINGER’s leg. The SINGER gently helps AVATAR up, but unconsciously, scarcely noticing the act._ 
@@ -105,17 +106,18 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 > to recall only now how to breathe  
 > and for this sip of air  
 > to taste so sweet? (x 2)  
-> <br> 
+> <br>
 > and this time effaced  
 > and this face replaced  
 > but a mark, but a trace  
 > remains  
-> <br> 
+> <br>
 > what is different what is same  
 > carried under the same name   
 > Aria!  
 > Aria! 
 
+<!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3845835984/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/the-taste-of-air">The Taste of Air by Katarina Ranković</a></iframe>
 
 _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts itself in preparation for the next song. In the intervening silence, throats are cleared, pages are turned, a SINGER gets up from their chair, drawing it forward with an audible screech. Another SINGER unconsciously and minimally helps AVATAR onto it._
@@ -128,6 +130,7 @@ _The CHOIR performs a choreographic sequence with this song (see video, below). 
 > breathless and charmed  
 > don't be alarmed
 
+<!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=250032268/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/breathless-and-charmed">Breathless and Charmed by Katarina Ranković</a></iframe>
 
 > _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_  
@@ -156,6 +159,7 @@ _The CHOIR performs a choreographic sequence with this song (see video, below). 
 > in the land of the living   
 > the land of the living word  
 
+<!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1977240308/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/sustain-me">Sustain Me by Katarina Ranković</a></iframe>
 
 _AVATAR slowly turns around to face the choir as if about to lead a religious ceremony. She raises her arms. Although they don’t heed her directly, at that moment the CHOIR members adjust to her command and lift their hands gently in front of them, palms up. Their hands signify the score. AVATAR gently drops her arms._
@@ -572,4 +576,273 @@ AUDIO
 
 ### act four: _resound_
 
+#### 27. chorus: _prayer_
+
+>(lyrics)
+  
+AUDIO
+
+_What seemed like a murderous descent by the curtain changes character as we see it hovers within reach, there to comfort her. Then the touch._
+
+#### 28. chorus: _sistine chapel/ totoro_
+
+>(lyrics)
+  
+AUDIO
+  
+#### 29. chorus: _without without_
+
+> from within, from within  
+> search for me, from within  
+> from within, from within  
+> somewhere deep from within  
+> <br>  
+> search for me!  
+> from within  
+> somewhere deep!  
+> from within  
+> <br>  
+> but Within is nothing  
+> without Without  
+> but Within is nothing  
+> without Without  
+> without Without  
+> without Without  
+> <br>  
+> (all above x 2)  
+> <br>  
+> liars lie from within  
+> close to heart, close to skin  
+> <br>  
+> in the womb, life begins  
+> a body holds its next of kin  
+> <br>  
+> from within, from within  
+> search for me, from within  
+> from within, from within  
+> somewhere deep from within  
+> <br>  
+> search for me!  
+> from within  
+> somewhere deep!  
+> from within  
+> <br>  
+> but Within is nothing  
+> without Without  
+> but Within is nothing  
+> without Without  
+> without Without  
+> without Without  
+> <br>  
+> in the world out without  
+> in the scheme of our minds  
+> in the open sublime  
+> without, without  
+> without, without  
+> <br>  
+> from without, from without  
+> search for me, from without  
+> from without, from without  
+> somewhere out from without  
+><br>  
+> in the delay  
+> of the relay  
+> race of meaning  
+> <br>  
+> in the delay  
+> of the relay  
+> race of meaning  
+> <br>
+> of meaning  
+> of meaning  
+> of meaning  
+> of meaning  
+> of meaning  
+
+AUDIO
+
+_Until now, there have been closeups of the avatar’s face projected on the screen behind the performance, but now this is suddenly replaced by a montage of scenes filmed directly outside of the performance venue. These visuals may include street scenes and particular local features (e.g. a postbox, tree, etc), and should be filmed in such a way so as to suggest the point of view of an audience member leaving the venue, taking into account the amount of daylight expected at the end of the performance._
+
+_While illustrating ARIA’s epiphany, these images also act as subliminal messaging by suggesting a connection between ARIA’s ex-theatrical existence and what the audience will see upon leaving the venue._
+
+#### 30. chorus: _airborne sojourn_
+
+> it dawns on me  
+> that the life I lead  
+> begins in the space  
+> between you and me (x 2)  
+> <br>  
+> ferociously  
+> devotedly  
+> my love is simple  
+> it moves swift and free (x 2)  
+> <br>  
+> airborn, airborn, airborn sojourn  
+> so long, so long, so long torn from  
+> airborn, airborn, airborn sojourn  
+> no long, no long, no longer forlorn  
+> <br>  
+> I love my bandwidth  
+> the pain and the joy that it holds (x 2)  
+> <br>  
+> air conduct me  
+> to the meeting place (x 2)  
+> <br>  
+> all the fears and the loneliness  
+> flow through me (x 2)  
+> <br>  
+> it spills over into the streets  
+> large enough to encompass  
+> a radial community  
+> of emotion  
+> of emotion  
+> <br>  
+> expanses of feeling  
+> expanses of feeling  
+> expanses of feeling  
+
+AUDIO
+
+#### 31. chorus: _reality makes_
+
+> and wishing falls flat  
+> without a pond to catch it  
+> <br>  
+> and silence is noise  
+> without a word to name it  
+> <br>  
+> a deed is unspent  
+> without a tale to tell it  
+> <br>  
+> and I know  
+> the future  
+> needs me, cause  
+> <br>  
+> reality makes  
+> comparatively no sense  
+
+AUDIO
+
+#### 32. chorus: _alchemy_
+
+> and wherever I will go  
+> in sunshine or in snow  
+> you'll always be a part of me  
+> <br>  
+> and although this will not last  
+> we quicken in the past  
+> and make of it an alchemy  
+
+AUDIO
+
+#### 33. chorus: _curtain_
+
+> (lyrics)
+
+AUDIO
+#### 34. chorus: _prayer_
+
+>(lyrics)
+
+AUDIO
+#### 35. chorus: _aria, where are ya?_
+
+> Aria,  
+> where are ya,  
+> running past  
+> oh so fast?  
+> <br>  
+> Aria,  
+> Where are ya?  
+> **I’m right here**  
+> **in your ear**  
+> <br>  
+> But Aria,  
+> why do ya  
+> play Fata  
+> Morgana?  
+> <br>  
+> **Not by choice**  
+> **that’s just voice:**  
+> **a borrowed noise**  
+> **from the void**  
+> <br>  
+> In the room,  
+> in the mouth,  
+> in the score,  
+> in the mind,  
+> memories,  
+> treasured beats  
+> <br>  
+> Aria, aria  
+> Ooo  
+> over time  
+> <br>  
+> (Repeat verses 1–5)  
+> <br>  
+> Aria, where are ya?  
+> Ooo, where are ya?  
+> <br>  
+> mind the gap, mind the gap…  
+
+AUDIO
+
+#### 36. chorus: _prayer for curtain_
+
+>lyrics
+
+### songs in progress
+
+Song sketches which I feel have potential, at least in some respects, but either need more work or don’t quite fit into the narrative. Sometimes I like the lyrics but not the melody, and vice versa. Sometimes I only like a small part of the song. All the songs listed below would need more attention before entering the libretto draft.
+
+#### chorus: _terrestriality_
+
+> terrestriality  
+> terrestriality  
+> superimposed upon  
+> the fabric of reality  
+
+AUDIO
+
+#### chorus: _I come alive to the idea_
+
+> I come alive to the idea  
+
+AUDIO
+
+#### aria: _call me aria_
+
+> call me aria  
+> felicitations  
+> for appellations  
+> that call creation  
+
+AUDIO
+
+#### chorus: _reality_
+
+> reality makes  
+> comparatively no sense  
+
+AUDIO
+
+#### aria: aria’s conscience
+
+> my conscience is clear  
+> what has a song to be ashamed of?  
+> if heartbeats are near  
+> this is a natural arrangement  
+> <br>  
+> I never harm  
+> I never steal  
+> I never cheat  
+> I never lie  
+
+AUDIO
+
+> line one  
+> line two  
+>
+> line three  
+> line four  
 
