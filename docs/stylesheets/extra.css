@@ -1,0 +1,15 @@
+/* Make the left sidebar feel like a distinct panel */
+.md-sidebar--primary {
+  background: #f7f7f7;     /* light grey panel */
+  border-right: 1px solid #e3e3e3;
+}
+
+/* Slightly soften the content background */
+.md-content {
+  background: #ffffff;
+}
+
+/* Optional: make sidebar text a touch smaller for “menu” feel */
+.md-sidebar--primary .md-nav__link {
+  font-size: 0.95em;
+}
