@@ -162,12 +162,11 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
 <div style="max-width: 420px; margin: 0 auto;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
     <iframe
-      src="https://www.youtube.com/embed/Mri_15gBDq4?modestbranding=1&rel=0&playsinline=1"
-      title="Song sketch"
-      style="position: absolute; inset: 0; width: 100%; height: 100%;"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
+      src="https://player.vimeo.com/video/123456789?h=abcdef1234"
+      style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen
+      title="Vimeo video">
     </iframe>
   </div>
 </div>
