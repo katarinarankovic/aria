@@ -1,11 +1,5 @@
 # Aria and the Curtain | Libretto
 
-Please note:
-
-- Throughout this libretto, you will find links to clips of Katarina singing and performing simple choreographies. These clips are illustrative only and are presented as sketches or notation to be further interpreted by composers, directors and singers. Read about how to contribute here.
-- This libretto can be provided as a performance programme.
-
-
 ## performance elements
 
 ### aria
@@ -81,26 +75,71 @@ Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhe
 
 ## libretto
 
-### act one: *revive*
-*The Curtain is fully raised and the house lights are on. The stage is set for a recital, with the MUSICIANS and CHOIR present on stage <u>before</u> the AUDIENCE has been let into the performance space.*
+### act one: _revive_
+_The Curtain is fully raised and the house lights are on. The stage is set for a recital, with the MUSICIANS and CHOIR present on stage <u>before</u> the AUDIENCE has been let into the performance space._
 
-*The CHOIR is getting ready. They are chatting casually to each other, creating a MURMUR. The MUSICIANS are testing their instruments. The AUDIENCE begins filtering into the room, noticing the minimal action on stage, but soon overlooking it as they settle into their seats and make small talk with their neighbours.*
+_The CHOIR is getting ready. They are chatting casually to each other, creating a MURMUR. The MUSICIANS are testing their instruments. The AUDIENCE begins filtering into the room, noticing the minimal action on stage, but soon overlooking it as they settle into their seats and make small talk with their neighbours._
 
-*On the stage, some SINGERS are flipping through the pages of the score, checking that the pages are in order. Some are stretching, others are sipping coffee. Some are doing quiet vocal and breathing exercises. Some are chatting to each other about the week they’ve had so far. Some are pointing at the AUDIENCE and talking to each other about the performance that is about to take place. In turn, the AUDIENCE is waiting, murmuring and pointing back at the performers. This murmurous sound of tuning and waiting usually precedes an overture, but in this case it becomes the overture.*
+_On the stage, some SINGERS are flipping through the pages of the score, checking that the pages are in order. Some are stretching, others are sipping coffee. Some are doing quiet vocal and breathing exercises. Some are chatting to each other about the week they’ve had so far. Some are pointing at the AUDIENCE and talking to each other about the performance that is about to take place. In turn, the AUDIENCE is waiting, murmuring and pointing back at the performers. This murmurous sound of tuning and waiting usually precedes an overture, but in this case it becomes the overture._
 
-#### 1. overture: *waiting*
-*The house lights are still on. The SINGERS continue talking, preparing and lounging as the MUSICIANS begin to play a section that takes as its very theme the ‘preparatory’ sounds that the CHOIR and the AUDIENCE are making. The composition may comprise sounds including but not limited to coughs, paper shuffles, sneezes, laughs, vocal exercises, instrument tuning and murmuring. It is designed to blend from non-performance to performance as seamlessly as possible.*
+#### 1. overture: _waiting_
+_The house lights are still on. The SINGERS continue talking, preparing and lounging as the MUSICIANS begin to play a section that takes as its very theme the ‘preparatory’ sounds that the CHOIR and the AUDIENCE are making. The composition may comprise sounds including but not limited to coughs, paper shuffles, sneezes, laughs, vocal exercises, instrument tuning and murmuring. It is designed to blend from non-performance to performance as seamlessly as possible._
 
-#### 2. chorus: gasp
-*Dramatic lighting suddenly comes on as AVATAR shoots out from Upstage Right and darts diagonally across the stage, through the CHOIR. A trill of gasps erupt in succession from the SINGERS she runs past, and a couple of disturbed sheets of score fly in the air where she just was.* 
+#### 2. chorus: _gasp_
+_Dramatic lighting suddenly comes on as AVATAR shoots out from Upstage Right and darts diagonally across the stage, through the CHOIR. A trill of gasps erupt in succession from the SINGERS she runs past, and a couple of disturbed sheets of score fly in the air where she just was._ 
 
-*AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile.*
+_AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile._
 
-> *The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations.*
+> _The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations._
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
 
-#### 5. chorus: *from page to eye*
+_Searching for something to hold on to, AVATAR leans on a SINGER’s leg. The SINGER gently helps AVATAR up, but unconsciously, scarcely noticing the act._ 
+
+_The breath-singing continues as AVATAR staggers across the front of the stage, occasionally pausing by a SINGER to lean on them for support, to wipe her tears with their collar, or show signs of affection and gratitude. As AVATAR fumbles across the stage, the SINGERS she passes unconsciously and gently extend arms or bend down to help AVATAR along, although they are scarcely aware that she is there, even as she grasps and looks at them intimately. Music bleeds into the breath-singing, leading into the first aria._
+
+#### 3. chorus: _the taste of air_
+_AVATAR grows increasingly bold and flings herself this way and that downstage, pendulum-like, occasionally tripping. Some SINGERS sing the song while the rest continue the breath-singing underneath._
+
+> have I held my breath for an age\
+> to recall only now how to breathe\
+> and for this sip of air\
+> to taste so sweet? (x 2)\
+> 
+> and this time effaced\
+> and this face replaced\
+> but a mark, but a trace\
+> remains\
+> 
+> what is different what is same\
+> carried under the same name\ 
+> Aria!\
+> Aria!\
+
+AUDIO
+
+_AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts itself in preparation for the next song. In the intervening silence, throats are cleared, pages are turned, a SINGER gets up from their chair, drawing it forward with an audible screech. Another SINGER unconsciously and minimally helps AVATAR onto it._
+
+#### 4. chorus: _the land of the living word_
+_The CHOIR performs a choreographic sequence with this song (see video, below). As the song progresses, AVATAR steadily regains her strength, and strides out Downstage Centre to synchronise with the choreography._
+
+> _only the CLUSTER closest to AVATAR, softly:_\
+> 
+> breathless and charmed\
+> don't be alarmed
+
+AUDIO
+
+AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:
+
+with song rites observed
+I pass undeterred
+upon my return 
+to the land of the living
+the land of the living word
+
+
+#### 5. chorus: _from page to eye_
 As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing.
 Each SINGER, upon being touched, joins in the chorus (with accompanying choreography:  see video).
 
