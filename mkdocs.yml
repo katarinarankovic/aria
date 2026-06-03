@@ -20,7 +20,6 @@ theme:
 nav:
   - Home: index.md
   - Libretto: libretto.md
-  - Songs: songs.md
   - License: license.md
 
 markdown_extensions:
