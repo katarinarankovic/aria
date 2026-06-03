@@ -1,9 +1,3 @@
-/* TEST: outline the TOC area (works across Material variants) */
-.md-nav__item--toc,
-nav[aria-label="Table of contents"],
-.md-nav--secondary {
-  outline: 2px solid red !important;
-}
 /* Only target the integrated TOC section */
 .md-nav__item--toc li.md-nav__item.has-children > ul.md-nav__list {
   margin-left: 0.75rem;
