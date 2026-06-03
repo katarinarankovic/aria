@@ -101,20 +101,20 @@ _The breath-singing continues as AVATAR staggers across the front of the stage, 
 #### 3. chorus: _the taste of air_
 _AVATAR grows increasingly bold and flings herself this way and that downstage, pendulum-like, occasionally tripping. Some SINGERS sing the song while the rest continue the breath-singing underneath._
 
-> have I held my breath for an age\
-> to recall only now how to breathe\
-> and for this sip of air\
-> to taste so sweet? (x 2)\
-> 
-> and this time effaced\
-> and this face replaced\
-> but a mark, but a trace\
-> remains\
-> 
-> what is different what is same\
-> carried under the same name\ 
-> Aria!\
-> Aria!\
+> have I held my breath for an age  
+> to recall only now how to breathe  
+> and for this sip of air  
+> to taste so sweet? (x 2)  
+>  
+> and this time effaced  
+> and this face replaced  
+> but a mark, but a trace  
+> remains  
+>  
+> what is different what is same  
+> carried under the same name   
+> Aria!  
+> Aria! 
 
 AUDIO
 
@@ -123,27 +123,27 @@ _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts it
 #### 4. chorus: _the land of the living word_
 _The CHOIR performs a choreographic sequence with this song (see video, below). As the song progresses, AVATAR steadily regains her strength, and strides out Downstage Centre to synchronise with the choreography._
 
-> _only the CLUSTER closest to AVATAR, softly:_\
-> 
-> breathless and charmed\
+> _only the CLUSTER closest to AVATAR, softly:_  
+>  
+> breathless and charmed  
 > don't be alarmed
 
 AUDIO
 
-> _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_\
-> 
-> with song rites observed\
-> I pass undeterred\
-> upon my return\ 
-> to the land of the living\
+> _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_  
+>  
+> with song rites observed  
+> I pass undeterred  
+> upon my return  
+> to the land of the living  
 > the land of the living word
 
 VIDEO
 
-> sustain me\
-> contain me\
-> in the land of the living\ 
-> the land of the living word\
+> sustain me  
+> contain me  
+> in the land of the living   
+> the land of the living word  
 
 AUDIO
 
@@ -154,9 +154,9 @@ _As the music leads in, AVATAR advances to one of the SINGERs nearest to her and
 
 _Each SINGER, upon being touched, joins in the chorus (with accompanying choreography:  see video)._
 
-> from page to eye\
-> from mouth to sky\
-> embrace me now\
+> from page to eye  
+> from mouth to sky  
+> embrace me now  
 > and call me “I”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mri_15gBDq4?si=WJ0_FnBPSwzwNzDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
