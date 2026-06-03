@@ -116,7 +116,7 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 > Aria!  
 > Aria! 
 
-AUDIO
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3845835984/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/the-taste-of-air">The Taste of Air by Katarina Ranković</a></iframe>
 
 _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts itself in preparation for the next song. In the intervening silence, throats are cleared, pages are turned, a SINGER gets up from their chair, drawing it forward with an audible screech. Another SINGER unconsciously and minimally helps AVATAR onto it._
 
@@ -205,9 +205,42 @@ VIDEO
 > it washes up emotion  
 > each time I come along
 
+AUDIO
+
+#### 8. chorus: _fantasia_
+> I am made  
+> of the stuff of earthquakes  
+> And the blood of hurricanes  
+> Earth and air I shift and shake  
+> When I move across the stage  
+>
+> Oh I quiver  
+> And I shiver  
+> I’m sheer life-giver  
+>
+> And those who are unmoved I move  
+> Their will becomes in turn my will  
+> And those who snooze, for them I choose  
+> I’m just too irresistable  
+>
+> And though you may decline my bid  
+>
+> Causing a ruckus  
+> Just to stay sane  
+>
+> With my xxx I wax and wane  
+> I cause a ruckus to stay sane
+
+AUDIO
 
 
 ### act two: *retrace*
+_Almost slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._
+
+_(VIGNETTES begins—This is a placeholder for further stage directions describing a part of the opera in which Aria cycles through a series of reminiscences in the form of vignettes exploring her past incarnations.)_
+
+#### 9. aria: _he found me haunting_
+
 
 ### act three: *resist*
 
