@@ -6,8 +6,8 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: black
-    accent: grey
+    primary: brown
+    accent: amber
   logo: assets/logo.png
   features:
     - navigation.instant
