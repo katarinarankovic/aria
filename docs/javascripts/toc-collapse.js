@@ -1,11 +1,17 @@
 function initTocCollapse() {
   console.log("TOC collapse script ran");
+
   const tocNav =
     document.querySelector('nav[aria-label="Table of contents"]') ||
     document.querySelector(".md-nav--secondary") ||
     document.querySelector(".md-nav__item--toc");
 
-  if (!tocNav) return;
+  if (!tocNav) {
+    console.log("TOC nav not found");
+    return;
+  }
+
+  console.log("TOC nav found:", tocNav);
 
   const items = tocNav.querySelectorAll("li");
 
@@ -17,7 +23,6 @@ function initTocCollapse() {
       p = p.parentElement;
     }
     return Math.max(0, depth - 1);
-    
   }
 
   items.forEach((li) => {
