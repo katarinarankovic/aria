@@ -6,7 +6,7 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: black
+    primary: slate
     accent: grey
   icon:
     logo: material/music
