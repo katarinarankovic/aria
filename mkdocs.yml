@@ -6,8 +6,8 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: blue grey
-    accent: cyan
+    primary: black
+    accent: grey
   logo: assets/logo.png
   features:
     - navigation.instant
