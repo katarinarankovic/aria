@@ -11,3 +11,12 @@
 .md-typeset blockquote p {
   margin: 0.15rem 0;
 }
+
+/* Lyric stanza spacing inside blockquotes */
+.md-typeset blockquote p {
+  margin: 0.25em 0;          /* tight within a stanza */
+}
+
+.md-typeset blockquote p + p {
+  margin-top: 0.9em;         /* bigger gap between stanzas */
+}
