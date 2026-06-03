@@ -490,6 +490,33 @@ AUDIO
 
 AUDIO
 
+#### 21. [number]: _trauma of past obliterations_
+
+> (lyrics)
+
+AUDIO
+
+#### 22. chorus: _deathly curtain_
+
+> down descends the deathly curtain  
+> as if the sky is closing in  
+> his only rule is to be certain  
+> and execute a higher will  
+>
+> down descends the deathly curtain  
+> it shimmers like a guillotine  
+> and no one there to alert them  
+> and no one there to intervene  
+
+AUDIO
+
+_CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving AVATAR lying on centre stage, as the curtain closes in on her slowly. The CHOIR continues singing backstage, so it sounds like the song is coming from further away. This song can be read as a final, weak gesture of defiance as aria expects the curtain to end the performance. 
+_
+
+### act three: resist
+
+
+
 ### act three: *resist*
 
 ### act four: *resound*
