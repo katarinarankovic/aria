@@ -92,7 +92,7 @@ _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pai
 
 > _The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations._
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
+> <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
 
 _Searching for something to hold on to, AVATAR leans on a SINGER’s leg. The SINGER gently helps AVATAR up, but unconsciously, scarcely noticing the act._ 
 
@@ -138,7 +138,7 @@ AUDIO
 > to the land of the living  
 > the land of the living word
 
-<div style="max-width: 240px; margin: 0;">
+> <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
     <iframe
       src="https://www.youtube.com/embed/u_iFicqr1sQ?modestbranding=1&rel=0&playsinline=1"
@@ -170,7 +170,7 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
 > embrace me now  
 > and call me “I”
 
-<div style="max-width: 240px; margin: 0;">
+> <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
     <iframe
       src="https://www.youtube.com/embed/Mri_15gBDq4?modestbranding=1&rel=0&playsinline=1"
@@ -183,7 +183,27 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
   </div>
 </div>
 
+_Once she has ‘switched on’ all the singers, AVATAR emerges Downstage Centre and mutely performs the gestures in unison with CHOIR. She gathers in strength—daring, once again, to hope._
 
+_AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconsciously helps her down, scarcely noticing the action. CHOIR sighs deeply, as if in relief._
+
+#### 6. chorus: _filter through a woman’s hair_
+
+> _Begins as a SOLO aria, and then radiates outwardly until the entire CHOIR joins in. The CHOIR and AVATAR appear to be following with their eyes, the movement of Aria throughout the space of the auditorium. Some of them have an outstretched hand that dips and soars like a wandering bird as they sing._  
+> 
+> filter through a woman’s hair  
+> spiral underneath the chairs  
+> I am neither here nor there  
+> close but also everywhere
+
+AUDIO
+VIDEO
+
+#### 7. aria: _spacetime_
+spacetime is like an ocean
+the wave of which is song
+it washes up emotion
+each time I come along
 
 
 
