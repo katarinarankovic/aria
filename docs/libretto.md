@@ -537,9 +537,39 @@ AUDIO
 AUDIO
 AUDIO (variation on 'rise)
 
+#### 25. chorus: _the tale I tell myself_
 
-### act three: *resist*
+> there’s a tale I tell myself  
+> when I lay my head to rest  
+> when the floor is cold  
+> and there’s a tremor in the walls  
+> I say  
+> I say
+>
+> through you my friends will I find a resting place  
+> each may take a word and ingest it on this day  
+> swallow up a piece of air 
+> lodge it into your soul 
+>
+> choose a spot that’s tender  
+> and let it make you whole  
+> le-le-le-let  
+> it make  
+> le-le-le-let  
+> it make 
+> let it make you whole  
+>
+> (we can seek comfort in legacies  
+> and like ocean seas hope they carry thee)  
 
-### act four: *resound*
+AUDIO
 
-## songs in progress
+#### 26. chorus: _curtain_
+
+> (lyrics)
+
+AUDIO
+
+### act four: _resound_
+
+
