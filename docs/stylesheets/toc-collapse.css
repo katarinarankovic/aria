@@ -1,7 +1,7 @@
-/* Only target the integrated TOC section */
 .md-nav__item--toc {
   outline: 2px solid red !important;
 }
+/* Only target the integrated TOC section */
 .md-nav__item--toc li.md-nav__item.has-children > ul.md-nav__list {
   margin-left: 0.75rem;
 }
