@@ -1,4 +1,5 @@
-blockquote {
+/* Turn ALL blockquotes into grey boxes */
+.md-typeset blockquote {
   background: #f0f0f0;
   border-left: 4px solid #c7c7c7;
   padding: 1rem 1.25rem;
@@ -6,6 +7,7 @@ blockquote {
   border-radius: 4px;
 }
 
-blockquote p {
+/* Tighten lyric line spacing inside the box */
+.md-typeset blockquote p {
   margin: 0.15rem 0;
 }
