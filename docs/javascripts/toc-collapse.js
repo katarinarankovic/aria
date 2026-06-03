@@ -1,53 +1,60 @@
-// Collapse integrated TOC items at depth >= 2 (roughly H3 and deeper),
-// while keeping higher levels visible.
-// Works with Material's integrated TOC container `.md-nav__item--toc`.
+function initTocCollapse() {
+  const tocNav =
+    document.querySelector('nav[aria-label="Table of contents"]') ||
+    document.querySelector(".md-nav--secondary") ||
+    document.querySelector(".md-nav__item--toc");
 
-document.addEventListener("DOMContentLoaded", () => {
-  const tocRoot = document.querySelector(".md-nav__item--toc");
-  if (!tocRoot) return;
+  if (!tocNav) return;
 
-  const currentHash = decodeURIComponent(window.location.hash || "");
+  const items = tocNav.querySelectorAll("li");
 
-  // Helper: compute depth of a TOC <li> relative to the TOC root list.
-  // Depth 0 = top level (H2-ish), depth 1 = next (H3-ish), etc.
-  function getDepth(li) {
+  function depthOf(li) {
     let depth = 0;
-    let node = li.parentElement;
-    while (node && node !== tocRoot) {
-      if (node.classList && node.classList.contains("md-nav__list")) depth += 1;
-      node = node.parentElement;
+    let p = li.parentElement;
+    while (p && p !== tocNav) {
+      if (p.tagName === "UL") depth += 1;
+      p = p.parentElement;
     }
-    // Subtract 1 because we counted the top list as depth 1
     return Math.max(0, depth - 1);
   }
 
-  const items = tocRoot.querySelectorAll("li.md-nav__item");
-
   items.forEach((li) => {
-    const childList = li.querySelector(":scope > ul.md-nav__list");
-    if (!childList) return;
+    const childUl = li.querySelector(":scope > ul");
+    if (!childUl) return;
 
     li.classList.add("has-children");
 
-    const depth = getDepth(li);
+    const depth = depthOf(li);
+    if (depth >= 1) li.classList.add("is-collapsed"); // collapse H3+
+  });
 
-    // Collapse only deeper levels (depth >= 1 ≈ H3 and below)
-    if (depth >= 1) li.classList.add("is-collapsed");
-
-    // If current hash is inside this subtree, expand it so the reader sees where they are
-    if (currentHash && li.querySelector(`a[href="${currentHash}"]`)) {
-      li.classList.remove("is-collapsed");
-      li.classList.add("is-expanded");
+  const hash = decodeURIComponent(window.location.hash || "");
+  if (hash) {
+    const active = tocNav.querySelector(`a[href="${hash}"]`);
+    if (active) {
+      let li = active.closest("li");
+      while (li && tocNav.contains(li)) {
+        li.classList.remove("is-collapsed");
+        li.classList.add("is-expanded");
+        li = li.parentElement?.closest("li");
+      }
     }
+  }
 
-    const link = li.querySelector(":scope > a.md-nav__link");
-    if (!link) return;
-
-    // Toggle collapse/expand on click, but allow normal navigation
-    link.addEventListener("click", () => {
-      if (depth < 1) return; // don't toggle H2-ish level
+  tocNav.querySelectorAll("li.has-children > a").forEach((a) => {
+    a.addEventListener("click", () => {
+      const li = a.closest("li");
+      if (!li) return;
+      const depth = depthOf(li);
+      if (depth < 1) return; // don't toggle top level
       li.classList.toggle("is-collapsed");
       li.classList.toggle("is-expanded");
     });
   });
-});
+}
+
+document.addEventListener("DOMContentLoaded", initTocCollapse);
+
+if (typeof document$ !== "undefined") {
+  document$.subscribe(() => setTimeout(initTocCollapse, 0));
+}
