@@ -138,7 +138,18 @@ AUDIO
 > to the land of the living  
 > the land of the living word
 
-VIDEO
+<div style="max-width: 240px; margin: 0;">
+  <div style="position: relative; width: 100%; padding-top: 177.78%;">
+    <iframe
+      src="https://www.youtube.com/embed/u_iFicqr1sQ?modestbranding=1&rel=0&playsinline=1"
+      title="Song sketch"
+      style="position: absolute; inset: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 > sustain me  
 > contain me  
@@ -159,14 +170,15 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
 > embrace me now  
 > and call me “I”
 
-<div style="max-width: 420px; margin: 0 auto;">
+<div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
     <iframe
-      src="https://player.vimeo.com/video/123456789?h=abcdef1234"
-      style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowfullscreen
-      title="Vimeo video">
+      src="https://www.youtube.com/embed/Mri_15gBDq4?modestbranding=1&rel=0&playsinline=1"
+      title="Song sketch"
+      style="position: absolute; inset: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
     </iframe>
   </div>
 </div>
