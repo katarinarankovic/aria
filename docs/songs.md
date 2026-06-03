@@ -8,6 +8,8 @@ Click a title to jump to that song inside the [libretto](libretto.md).
 <details open>
 <summary><strong>Act One: Revive</strong></summary>
 
+<br>
+
 - [1. overture: waiting](libretto.md#1-overture-waiting)
 - [2. chorus: gasp](libretto.md#2-chorus-gasp)
 - [3. chorus: the taste of air](libretto.md#3-chorus-the-taste-of-air)
@@ -21,6 +23,8 @@ Click a title to jump to that song inside the [libretto](libretto.md).
 
 <details open>
 <summary><strong>Act Two: Retrace</strong></summary>
+
+<br>
 
 - [9. aria: he found me haunting](libretto.md#9-aria-he-found-me-haunting)
 - [10. recitative: no illusions](libretto.md#10-recitative-no-illusions)
@@ -42,6 +46,8 @@ Click a title to jump to that song inside the [libretto](libretto.md).
 <details open>
 <summary><strong>Act Three: Resist</strong></summary>
 
+<br>
+
 - [23. chorus: prayer](libretto.md#23-chorus-prayer)
 - [24. chorus: lift me up](libretto.md#24-chorus-lift-me-up)
 
@@ -49,6 +55,8 @@ Click a title to jump to that song inside the [libretto](libretto.md).
 
 <details>
 <summary><strong>Act Four: Resound</strong></summary>
+
+<br>
 
 *No numbered songs listed yet.*
 
@@ -58,5 +66,4 @@ Click a title to jump to that song inside the [libretto](libretto.md).
 
 ## Songs in progress
 
-Jump to the “songs in progress” section in the libretto:  
-→ [songs in progress](libretto.md#songs-in-progress)
+→ [Jump to “songs in progress” in the libretto](libretto.md#songs-in-progress)
