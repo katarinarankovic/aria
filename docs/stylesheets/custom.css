@@ -1,20 +1,10 @@
-/* Distinct left panel */
+/* Make the left sidebar feel distinct without disturbing layout */
 .md-sidebar--primary {
-  background: #f6f6f6;
-  border-right: 1px solid #e2e2e2;
+  background-color: #f7f7f7;
+  border-right: 1px solid #e6e6e6;
 }
 
-/* Give the content a touch more breathing room */
-.md-main__inner {
-  padding-left: 1rem;
-}
-
-/* Slightly soften TOC indentation so it reads like a menu */
-.md-sidebar--primary .md-nav__item {
-  margin: 0.1rem 0;
-}
-
-/* Optional: make the active link clearer */
-.md-sidebar--primary .md-nav__link--active {
-  font-weight: 600;
+/* Keep content area clean */
+.md-content {
+  background-color: #ffffff;
 }
