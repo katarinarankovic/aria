@@ -124,14 +124,14 @@ _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts it
 _The CHOIR performs a choreographic sequence with this song (see video, below). As the song progresses, AVATAR steadily regains her strength, and strides out Downstage Centre to synchronise with the choreography._
 
 > _only the CLUSTER closest to AVATAR, softly:_  
->  
+> <br>
 > breathless and charmed  
 > don't be alarmed
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=250032268/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/breathless-and-charmed">Breathless and Charmed by Katarina Ranković</a></iframe>
 
 > _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_  
->  
+> <br>
 > with song rites observed  
 > I pass undeterred  
 > upon my return  
@@ -190,12 +190,11 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 #### 6. chorus: _filter through a woman’s hair_
 
 > _Begins as a SOLO aria, and then radiates outwardly until the entire CHOIR joins in. The CHOIR and AVATAR appear to be following with their eyes, the movement of Aria throughout the space of the auditorium. Some of them have an outstretched hand that dips and soars like a wandering bird as they sing._  
-> 
+> <br>
 > filter through a woman’s hair  
 > spiral underneath the chairs  
 > I am neither here nor there  
 > close but also everywhere
-{: .lyrics }
 
 AUDIO
 VIDEO
@@ -214,21 +213,21 @@ AUDIO
 > And the blood of hurricanes  
 > Earth and air I shift and shake  
 > When I move across the stage  
->
+> <br>
 > Oh I quiver  
 > And I shiver  
 > I’m sheer life-giver  
->
+> <br>
 > And those who are unmoved I move  
 > Their will becomes in turn my will  
 > And those who snooze, for them I choose  
 > I’m just too irresistable  
->
+> <br>
 > And though you may decline my bid  
->
+> <br>
 > Causing a ruckus  
 > Just to stay sane  
->
+> <br>
 > With my xxx I wax and wane  
 > I cause a ruckus to stay sane
 
@@ -245,22 +244,22 @@ _(VIGNETTES begins—This is a placeholder for further stage directions describi
 > where usual rules do not apply  
 > thus left alone, my time I bide  
 > until someone in me confides  
->
+> <br>
 > I hear him walking down the street  
 > his footfall regular and neat  
 > I thought it would be quite so sweet  
 > if I were to intrude his beat  
->
+> <br>
 > and then I fall upon his lips one time  
 > the tune he thinks, tastes so divine  
 > it’s bittersweet like aged wine  
 > he is this way inclined!  
->
+> <br>
 > he found me haunting, wanting  
 > haunting, wanting  
 > he found me haunting, wanting  
 > haunting, wanting  
->
+> <br>
 > I’m just a possibility  
 > of fragile probability  
 > I’m just a possibility  
@@ -300,12 +299,12 @@ _AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then
 > though my life rests in your hands  
 > and the sequence of my character  
 > lies sequestered in a breath  
->
+> <br>
 > and therein flutters my fragility  
 > like a silent butterfly  
 > if forgetfulness or disinterest  
 > were to cast a spell on me  
-> 
+> <br>
 > my chances rest on democracy  
 > on a wise collective will  
 > and I bear my trial uneasily  
@@ -315,8 +314,8 @@ _AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then
 AUDIO
 
 _AVATAR kneels. The CHOIR marches 4 or 5 steps forward, washing over her until she disappears, as if under a wave._
-_
-CHOIR relaxes again, forming clusters among themselves and resuming rehearsal small talk. AVATAR is nowhere to be seen. Some retrieve pencils and cross out or add notes to their scores, some ask each other questions and yet others calibrate their voices._
+
+_CHOIR relaxes again, forming clusters among themselves and resuming rehearsal small talk. AVATAR is nowhere to be seen. Some retrieve pencils and cross out or add notes to their scores, some ask each other questions and yet others calibrate their voices._
 
 _MUSICIAN emerges from their position to give a directive note to a small group. When the group looks satisfied, the musician looks about themselves as if they’ve lost something. They look under their bag and in their pockets, but can't seem to find it. The musicians ask somebody, but they shake their head. Then the musician appears to notice something by the edge of the stage, behind the curtain. They walk briskly over to it, take it by the hand, and drag it behind them across the stage. It is AVATAR. As the two of them filter through the choir, another trill of voices sets off in AVATAR's wake._
 
@@ -334,7 +333,7 @@ _The sounds have grown chaotic, as the AVATARS trace rapid routes through the ch
 > to the light of a sunbeam  
 > all good things are a variation  
 > on a theme
->
+> <br>
 > but what is it s'posed to mean  
 > when there's only one of me  
 > can I ever hope to deserve  
@@ -351,13 +350,13 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 > what is, what is this magic  
 > of the human heart  
 > that keeps me glued to the spot?  
->
+> <br>
 > what is this, what is this  
 > magic, magic  
 > of the human heart  
 > that keeps me, oh, keeps me  
 > glued down to the spot?  
->  
+> <br>
 >  what is this sorcery,  
 > what is this magic  
 > of the human heart  
@@ -373,31 +372,31 @@ AUDIO
 > the air which I once called my blood  
 > runs free  
 > without me (x2)  
->
+> <br>
 > parts of myself upon which I felt  
 > I had some sovereignty  
 > now escape me  
->
+> <br>
 > and worlds apart, from time depart  
 > I’m saved  
 > yet, 
->
+> <br>
 > aeons, aeons follow me  
 > I ebb, I flow, and yet I know  
 > I’m static in the human soul  
 > wherever I do go  
->
+> <br>
 > I’m beginning to see  
 > that although the aeons follow me  
 > I’m again and again  
 > returning the same  
 > frozen on the spot  
->
+> <br>
 > fly away to distant times  
 > gloss over the countless crimes  
 > committed by song  
 > when applied to causes wrong  
->
+> <br>
 > I’m beginning to realise  
 > that the skies which I thought I occupied  
 > the air which I once called my blood  
@@ -443,7 +442,7 @@ AUDIO
 
 > but I evaporated at the blink of an eye  
 > and so my life repeated, almost passing me by  
->
+> <br>
 > and so you might forgive me  
 > for losing my faith in you  
 > for losing my faith in you  
@@ -457,41 +456,41 @@ AUDIO
 > somewhere I once sang  
 > I was left in grief  
 > my purpose had left me  
-> 
+> <br>
 > the future needs me  
 > but finds me faulty  
 > I was left bereaved  
 > my purpose had left me  
->
+> <br>
 > my purpose left me  
 > my purpose left me  
 > and shortchanged me (x 2)  
->
+> <br>
 > somewhere I once breathed  
 > somewhere I once sang  
 > my purpose had left me  
 > and I sank into sleep  
->
+> <br>
 > the future needs me  
 > but finds me faulty  
 > I was left bereaved  
 > my purpose had left me  
->
+> <br>
 > my purpose left me  
 > my purpose left me  
 > and shortchanged me (x 2)  
->
+> <br>
 > and I passed in and out of minds  
 > and in and out of  
 > in and out of  
 > in and out of minds  
->
+> <br>
 > drifting feelings  
 > expensive ceilings (x 2)
 
 AUDIO
 
-#### 21. [number]: _trauma of past obliterations_
+#### 21. chorus: _trauma of past obliterations_
 
 > (lyrics)
 
@@ -503,7 +502,7 @@ AUDIO
 > as if the sky is closing in  
 > his only rule is to be certain  
 > and execute a higher will  
->
+> <br>
 > down descends the deathly curtain  
 > it shimmers like a guillotine  
 > and no one there to alert them  
@@ -524,10 +523,10 @@ AUDIO
 #### 24. chorus: _lift me up_
 
 > _from offstage, CHOIR sings:_  
->
+> <br>
 > lift me up into the sky  
 > 'pon these voices I shall rise (x 2)  
->
+> <br>
 > I am not afraid  
 > I am not afraid of you  
 > I shall rise  
@@ -546,12 +545,12 @@ AUDIO (variation on 'rise)
 > and there’s a tremor in the walls  
 > I say  
 > I say
->
+> <br>
 > through you my friends will I find a resting place  
 > each may take a word and ingest it on this day  
 > swallow up a piece of air 
 > lodge it into your soul 
->
+> <br>
 > choose a spot that’s tender  
 > and let it make you whole  
 > le-le-le-let  
@@ -559,7 +558,7 @@ AUDIO (variation on 'rise)
 > le-le-le-let  
 > it make 
 > let it make you whole  
->
+> <br>
 > (we can seek comfort in legacies  
 > and like ocean seas hope they carry thee)  
 
