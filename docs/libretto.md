@@ -510,11 +510,32 @@ AUDIO
 
 AUDIO
 
-_CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving AVATAR lying on centre stage, as the curtain closes in on her slowly. The CHOIR continues singing backstage, so it sounds like the song is coming from further away. This song can be read as a final, weak gesture of defiance as aria expects the curtain to end the performance. 
-_
+_CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving AVATAR lying on centre stage, as the curtain closes in on her slowly. The CHOIR continues singing backstage, so it sounds like the song is coming from further away. This song can be read as a final, weak gesture of defiance as aria expects the curtain to end the performance._
 
 ### act three: resist
 
+#### 23. chorus: _prayer_
+
+> (lyrics)
+
+AUDIO
+
+#### 24. chorus: _lift me up_
+
+> _from offstage, CHOIR sings:_  
+>
+> lift me up into the sky  
+> 'pon these voices I shall rise (x 2)  
+>
+> I am not afraid  
+> I am not afraid of you  
+> I shall rise  
+> once again  
+> to comprise  
+> all these sighs
+
+AUDIO
+AUDIO (variation on 'rise)
 
 
 ### act three: *resist*
