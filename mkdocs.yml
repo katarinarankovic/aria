@@ -6,7 +6,7 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: slate
+    primary: black
     accent: grey
   icon:
     logo: material/music
@@ -14,7 +14,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
 
