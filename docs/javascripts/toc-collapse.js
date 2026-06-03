@@ -5,36 +5,116 @@ function initTocCollapse() {
 
   if (!tocNav) return;
 
-  // Avoid double-initializing (Material instant navigation runs this repeatedly)
+  // Prevent repeated binding under navigation.instant
   if (tocNav.dataset.tocCollapseInitialized === "true") return;
   tocNav.dataset.tocCollapseInitialized = "true";
 
-  // Helper: get direct child NAV of an LI (Safari-safe, no :scope)
-  function directChildNav(li) {
-    for (const child of li.children) {
-      if (child.tagName === "NAV") return child;
+  const items = Array.from(tocNav.querySelectorAll("li"));
+  if (items.length === 0) return;
+
+  // Helper: get "level" of a TOC item (Material often uses data-md-level)
+  function getLevel(li) {
+    const attr = li.getAttribute("data-md-level");
+    if (attr) {
+      const n = parseInt(attr, 10);
+      if (!Number.isNaN(n)) return n;
     }
-    return null;
+
+    // Fallback: try aria-level on the link (rare)
+    const a = li.querySelector("a");
+    const aria = a && a.getAttribute("aria-level");
+    if (aria) {
+      const n = parseInt(aria, 10);
+      if (!Number.isNaN(n)) return n;
+    }
+
+    // Last-resort fallback: treat everything as same level
+    return 0;
   }
 
-  // Depth: count how many ancestor <li> exist inside this TOC nav
-  function liDepth(li) {
-    let d = 0;
-    let p = li.parentElement;
-    while (p && p !== tocNav) {
-      if (p.tagName === "LI") d += 1;
-      p = p.parentElement;
+  const levels = items.map(getLevel);
+  const baseLevel = Math.min(...levels);
+
+  // We want to collapse at "H3" (i.e., keep top + one level visible)
+  // So: children deeper than (baseLevel + 1) get hidden initially.
+  const collapseFromLevel = baseLevel + 2;
+
+  // Build parent->children groups in the FLAT list.
+  // A parent is any item at level (collapseFromLevel - 1) or higher-level heading,
+  // and its "children" are the subsequent items with level >= collapseFromLevel
+  // until we reach an item with level <= parentLevel.
+  const groups = [];
+
+  for (let i = 0; i < items.length; i++) {
+    const li = items[i];
+    const L = getLevel(li);
+
+    // Parent candidates are levels <= collapseFromLevel - 1
+    // (i.e., keep these visible)
+    if (L <= collapseFromLevel - 1) {
+      const children = [];
+      let j = i + 1;
+
+      while (j < items.length) {
+        const next = items[j];
+        const Ln = getLevel(next);
+
+        if (Ln <= L) break; // next sibling or higher section starts
+        if (Ln >= collapseFromLevel) children.push(next);
+        j++;
+      }
+
+      if (children.length > 0) {
+        groups.push({ parent: li, parentLevel: L, children });
+      }
     }
-    return d; // 0 = top, 1 = next, etc.
   }
 
-  const liNodes = Array.from(tocNav.querySelectorAll("li"));
+  // If we couldn't detect levels (all zeros), do nothing.
+  // (This avoids hiding everything accidentally.)
+  const allSameLevel = levels.every((x) => x === levels[0]);
+  if (allSameLevel) return;
 
-  liNodes.forEach((li) => {
-    const childNav = directChildNav(li);
-    if (!childNav) return; // no children -> nothing to collapse
+  // Collapse all groups by default
+  groups.forEach(({ parent, children }) => {
+    parent.setAttribute("data-has-children", "true");
+    parent.setAttribute("data-collapsed", "true");
+    children.forEach((c) => (c.style.display = "none"));
 
-    li.setAttribute("data-has-children", "true");
+    const link = parent.querySelector("a");
+    if (!link) return;
+
+    link.addEventListener("click", () => {
+      const collapsed = parent.getAttribute("data-collapsed") === "true";
+      parent.setAttribute("data-collapsed", collapsed ? "false" : "true");
+      children.forEach((c) => (c.style.display = collapsed ? "" : "none"));
+    });
+  });
+
+  // Expand the group that contains the current hash so readers can see context
+  const hash = decodeURIComponent(window.location.hash || "");
+  if (hash) {
+    const active = tocNav.querySelector(`a[href="${hash}"]`);
+    if (active) {
+      const activeLi = active.closest("li");
+      if (activeLi) {
+        groups.forEach(({ parent, children }) => {
+          if (children.includes(activeLi)) {
+            parent.setAttribute("data-collapsed", "false");
+            children.forEach((c) => (c.style.display = ""));
+          }
+        });
+      }
+    }
+  }
+}
+
+document.addEventListener("DOMContentLoaded", initTocCollapse);
+
+// Material instant navigation support
+if (typeof document$ !== "undefined") {
+  document$.subscribe(() => setTimeout(initTocCollapse, 0));
+}    li.setAttribute("data-has-children", "true");
 
     const depth = liDepth(li);
 
