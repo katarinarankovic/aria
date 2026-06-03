@@ -52,7 +52,7 @@ inside lyric blocks to force line breaks.
 **Horizontal video embed template**
 
 ```
-<div style="max-width: 240px; margin: 0;">
+<div style="max-width: 720px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 56.25%;">
     <iframe
       src="https://www.youtube.com/embed/VIDEO_ID?modestbranding=1&rel=0&playsinline=1"

@@ -200,7 +200,19 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 > close but also everywhere  
 
 AUDIO  
-VIDEO
+
+<div style="max-width: 240px; margin: 0;">
+  <div style="position: relative; width: 100%; padding-top: 177.78%;">
+    <iframe
+      src="https://www.youtube.com/embed/gtBLo3QO_Ys?modestbranding=1&rel=0&playsinline=1"
+      title="Song sketch"
+      style="position: absolute; inset: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 #### 7. aria: _spacetime_
 > spacetime is like an ocean  
@@ -266,7 +278,18 @@ _(VIGNETTES begins—This is a placeholder for further stage directions describi
 > I’m just a possibility  
 > of fragile probability  
 
-VIDEO
+<div style="max-width: 720px; margin: 0;">
+  <div style="position: relative; width: 100%; padding-top: 56.25%;">
+    <iframe
+      src="https://www.youtube.com/embed/efIw0Iu9XIA?modestbranding=1&rel=0&playsinline=1"
+      title="Song sketch"
+      style="position: absolute; inset: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 _(VIGNETTES ends)_
 

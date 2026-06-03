@@ -35,7 +35,8 @@
               "title": "WORKFLOW"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/libretto.md",
+                "file": "WORKFLOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for libretto"
+              "title": "Backlinks for WORKFLOW"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/libretto.md",
+                "file": "WORKFLOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from libretto"
+              "title": "Outgoing links from WORKFLOW"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/libretto.md",
+                "file": "WORKFLOW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of libretto"
+              "title": "Outline of WORKFLOW"
             }
           }
         ]
@@ -197,9 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "907355bce60a953b",
+  "active": "bd26aba6a58f7a45",
   "lastOpenFiles": [
-    "WORKFLOW.md",
-    "docs/libretto.md"
+    "docs/libretto.md",
+    "WORKFLOW.md"
   ]
 }
