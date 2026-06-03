@@ -1,9 +1,4 @@
-/* Hide nested nav when collapsed */
-.md-nav--secondary li[data-collapsed="true"] > nav {
-  display: none;
-}
-
-/* Disclosure arrows */
+/* Arrows on parents that control a collapsed group */
 .md-nav--secondary li[data-has-children="true"] > a::after {
   content: "▸";
   float: right;
