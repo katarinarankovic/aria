@@ -1,5 +1,5 @@
-/* Hide nested lists when collapsed */
-.md-nav--secondary li[data-collapsed="true"] > ul {
+/* Hide nested nav when collapsed */
+.md-nav--secondary li[data-collapsed="true"] > nav {
   display: none;
 }
 
