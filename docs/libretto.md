@@ -240,6 +240,90 @@ _Almost slightly embarrassed at her excess, which she realises will be taken for
 _(VIGNETTES begins—This is a placeholder for further stage directions describing a part of the opera in which Aria cycles through a series of reminiscences in the form of vignettes exploring her past incarnations.)_
 
 #### 9. aria: _he found me haunting_
+> sometimes I find myself outside  
+> where usual rules do not apply  
+> thus left alone, my time I bide  
+> until someone in me confides  
+>
+> I hear him walking down the street  
+> his footfall regular and neat  
+> I thought it would be quite so sweet  
+> if I were to intrude his beat  
+>
+> and then I fall upon his lips one time  
+> the tune he thinks, tastes so divine  
+> it’s bittersweet like aged wine  
+> he is this way inclined!  
+>
+> he found me haunting, wanting  
+> haunting, wanting  
+> he found me haunting, wanting  
+> haunting, wanting  
+>
+> I’m just a possibility  
+> of fragile probability  
+> I’m just a possibility  
+> of fragile probability
+
+VIDEO
+
+_(VIGNETTES ends)_
+
+#### 10. recitative: _no illusions_
+_AVATAR pauses thoughtfully, turning somewhat grave. She approaches one section of CHOIR and the nearby SINGERS say, sonorously, in AVATAR's wake:_
+
+> though I know not your reasons  
+> and likely never will
+
+_AVATAR takes the hand of a SINGER and raises it slowly to AVATAR's cheek. The SINGER's hand rests there a moment but gently drops back down._
+
+> I am under no illusion  
+> that you do this for me
+
+_AVATAR approaches another singer, lifting their arms in embrace of AVATAR._
+
+> yet if you could but know  
+> what this means to me
+
+_AVATAR embraces SINGER back, but as she does so, SINGER's arms gently drop back down._
+
+> a second chance at life  
+> from the shelves of history
+
+AUDIO
+
+#### 11. aria: _aria's chances_
+_AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then takes the hand of a MUSICIAN holding their instrument, and brings them to join the SINGER. Upon seeing each other, the SINGER and MUSICIAN smile and acknowledge each other, still scarcely paying heed to AVATAR. SINGER and MUSICIAN will perform the next aria as a duet, regarding at times each other, at times regarding the audience, treating their performance as a pleasant recital, rather than the living expression of ARIA._
+
+> I am grateful to you of course  
+> though my life rests in your hands  
+> and the sequence of my character  
+> lies sequestered in a breath  
+>
+> and therein flutters my fragility  
+> like a silent butterfly  
+> if forgetfulness or disinterest  
+> were to cast a spell on me  
+> 
+> my chances rest on democracy  
+> on a wise collective will  
+> and I bear my trial uneasily  
+> by a law severe and fair  
+> by a law severe and fair
+
+AUDIO
+
+_AVATAR kneels. The CHOIR marches 4 or 5 steps forward, washing over her until she disappears, as if under a wave._
+_
+CHOIR relaxes again, forming clusters among themselves and resuming rehearsal small talk. AVATAR is nowhere to be seen. Some retrieve pencils and cross out or add notes to their scores, some ask each other questions and yet others calibrate their voices._
+
+_MUSICIAN emerges from their position to give a directive note to a small group. When the group looks satisfied, the musician looks about themselves as if they’ve lost something. They look under their bag and in their pockets, but can't seem to find it. The musicians ask somebody, but they shake their head. Then the musician appears to notice something by the edge of the stage, behind the curtain. They walk briskly over to it, take it by the hand, and drag it behind them across the stage. It is AVATAR. As the two of them filter through the choir, another trill of voices sets off in AVATAR's wake._
+
+#### 12. chorus: _ripples_
+
+
+
+
 
 
 ### act three: *resist*
