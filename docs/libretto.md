@@ -76,7 +76,7 @@ Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhe
 ## libretto
 
 ### act one: _revive_
-_The Curtain is fully raised and the house lights are on. The stage is set for a recital, with the MUSICIANS and CHOIR present on stage <u>before</u> the AUDIENCE has been let into the performance space._
+_The Curtain is fully raised and the house lights are on. The stage is set for a recital, with the MUSICIANS and CHOIR present on stage before the AUDIENCE has been let into the performance space._
 
 _The CHOIR is getting ready. They are chatting casually to each other, creating a MURMUR. The MUSICIANS are testing their instruments. The AUDIENCE begins filtering into the room, noticing the minimal action on stage, but soon overlooking it as they settle into their seats and make small talk with their neighbours._
 
@@ -128,7 +128,7 @@ _The CHOIR performs a choreographic sequence with this song (see video, below). 
 > breathless and charmed  
 > don't be alarmed
 
-AUDIO
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=250032268/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/breathless-and-charmed">Breathless and Charmed by Katarina Ranković</a></iframe>
 
 > _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_  
 >  
