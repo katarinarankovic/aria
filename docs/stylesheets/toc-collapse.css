@@ -1,24 +1,16 @@
-/* Apply collapse behavior specifically inside the TOC nav found in your console:
-   <nav class="md-nav md-nav--secondary" aria-label="Table of contents"> ... */
-
-.md-nav--secondary li.is-collapsed > ul {
+/* Hide nested lists when collapsed */
+.md-nav--secondary li[data-collapsed="true"] > ul {
   display: none;
 }
 
-/* Optional: indent nested TOC lists a bit */
-.md-nav--secondary ul ul {
-  margin-left: 0.75rem;
-}
-
-/* Add disclosure arrows on items that have children */
-.md-nav--secondary li.has-children > a::after {
+/* Disclosure arrows */
+.md-nav--secondary li[data-has-children="true"] > a::after {
   content: "▸";
   float: right;
   opacity: 0.6;
   font-size: 0.9em;
 }
 
-/* Expanded arrow */
-.md-nav--secondary li.is-expanded > a::after {
+.md-nav--secondary li[data-has-children="true"][data-collapsed="false"] > a::after {
   content: "▾";
 }
