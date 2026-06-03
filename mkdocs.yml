@@ -4,6 +4,10 @@ site_url: https://katarinarankovic.github.io/aria/
 
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: grey
   features:
     - navigation.instant
     - navigation.tracking
