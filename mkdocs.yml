@@ -29,5 +29,5 @@ markdown_extensions:
   - toc:
       permalink: true
       
-extra_css:
+custom_css:
   - stylesheets/custom.css
