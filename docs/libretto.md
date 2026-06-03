@@ -130,18 +130,29 @@ _The CHOIR performs a choreographic sequence with this song (see video, below). 
 
 AUDIO
 
-AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:
+> _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_\
+> 
+> with song rites observed\
+> I pass undeterred\
+> upon my return\ 
+> to the land of the living\
+> the land of the living word
 
-with song rites observed
-I pass undeterred
-upon my return 
-to the land of the living
-the land of the living word
+VIDEO
 
+> sustain me\
+> contain me\
+> in the land of the living\ 
+> the land of the living word\
+
+AUDIO
+
+_AVATAR slowly turns around to face the choir as if about to lead a religious ceremony. She raises her arms. Although they don’t heed her directly, at that moment the CHOIR members adjust to her command and lift their hands gently in front of them, palms up. Their hands signify the score. AVATAR gently drops her arms._
 
 #### 5. chorus: _from page to eye_
-As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing.
-Each SINGER, upon being touched, joins in the chorus (with accompanying choreography:  see video).
+_As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing._
+
+_Each SINGER, upon being touched, joins in the chorus (with accompanying choreography:  see video)._
 
 > from page to eye\
 > from mouth to sky\
