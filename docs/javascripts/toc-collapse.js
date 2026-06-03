@@ -1,20 +1,14 @@
 function initTocCollapse() {
-  console.log("TOC collapse script ran");
-
   const tocNav =
     document.querySelector('nav[aria-label="Table of contents"]') ||
-    document.querySelector(".md-nav--secondary") ||
-    document.querySelector(".md-nav__item--toc");
+    document.querySelector(".md-nav--secondary");
 
-  if (!tocNav) {
-    console.log("TOC nav not found");
-    return;
-  }
+  if (!tocNav) return;
 
-  console.log("TOC nav found:", tocNav);
+  // Find ALL list items inside the TOC
+  const liNodes = Array.from(tocNav.querySelectorAll("li"));
 
-  const items = tocNav.querySelectorAll("li");
-
+  // Depth of an <li> based on how many <ul> ancestors it has within the TOC nav
   function depthOf(li) {
     let depth = 0;
     let p = li.parentElement;
@@ -22,46 +16,60 @@ function initTocCollapse() {
       if (p.tagName === "UL") depth += 1;
       p = p.parentElement;
     }
-    return Math.max(0, depth - 1);
+    // depth 1 = top level, depth 2 = next, etc.
+    return depth;
   }
 
-  items.forEach((li) => {
+  liNodes.forEach((li) => {
+    // Find the *direct* nested list under this item (if any)
     const childUl = li.querySelector(":scope > ul");
     if (!childUl) return;
 
-    li.classList.add("has-children");
+    // Mark as having children (for arrows via CSS, optional)
+    li.dataset.hasChildren = "true";
 
+    // Collapse from depth >= 2 (roughly H3 and deeper)
     const depth = depthOf(li);
-    if (depth >= 1) li.classList.add("is-collapsed"); // collapse H3+
+    if (depth >= 2) {
+      li.dataset.collapsed = "true";
+      childUl.style.display = "none";
+    }
+
+    // Toggle on click (but allow navigation)
+    const link = li.querySelector(":scope > a");
+    if (!link) return;
+
+    link.addEventListener("click", () => {
+      // only toggle deeper levels; keep top level stable
+      if (depth < 2) return;
+
+      const isCollapsed = li.dataset.collapsed === "true";
+      li.dataset.collapsed = isCollapsed ? "false" : "true";
+      childUl.style.display = isCollapsed ? "" : "none";
+    });
   });
 
+  // Expand the branch containing the current hash (so you can see where you are)
   const hash = decodeURIComponent(window.location.hash || "");
   if (hash) {
     const active = tocNav.querySelector(`a[href="${hash}"]`);
     if (active) {
       let li = active.closest("li");
       while (li && tocNav.contains(li)) {
-        li.classList.remove("is-collapsed");
-        li.classList.add("is-expanded");
+        const childUl = li.querySelector(":scope > ul");
+        if (childUl) {
+          li.dataset.collapsed = "false";
+          childUl.style.display = "";
+        }
         li = li.parentElement?.closest("li");
       }
     }
   }
-
-  tocNav.querySelectorAll("li.has-children > a").forEach((a) => {
-    a.addEventListener("click", () => {
-      const li = a.closest("li");
-      if (!li) return;
-      const depth = depthOf(li);
-      if (depth < 1) return; // don't toggle top level
-      li.classList.toggle("is-collapsed");
-      li.classList.toggle("is-expanded");
-    });
-  });
 }
 
 document.addEventListener("DOMContentLoaded", initTocCollapse);
 
+// Material instant navigation support
 if (typeof document$ !== "undefined") {
   document$.subscribe(() => setTimeout(initTocCollapse, 0));
 }
