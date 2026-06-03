@@ -7,7 +7,7 @@ theme:
   palette:
     scheme: default
     primary: black
-    accent: grey
+    accent: gray
   logo: assets/logo.png
   features:
     - navigation.instant
