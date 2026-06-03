@@ -1,4 +1,5 @@
 function initTocCollapse() {
+  console.log("TOC collapse script ran");
   const tocNav =
     document.querySelector('nav[aria-label="Table of contents"]') ||
     document.querySelector(".md-nav--secondary") ||
@@ -16,7 +17,7 @@ function initTocCollapse() {
       p = p.parentElement;
     }
     return Math.max(0, depth - 1);
-    console.log("TOC collapse script ran");
+    
   }
 
   items.forEach((li) => {
