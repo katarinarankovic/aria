@@ -92,7 +92,7 @@ _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pai
 
 > _The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations._
 
-> <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
 
 _Searching for something to hold on to, AVATAR leans on a SINGER’s leg. The SINGER gently helps AVATAR up, but unconsciously, scarcely noticing the act._ 
 
@@ -138,7 +138,7 @@ AUDIO
 > to the land of the living  
 > the land of the living word
 
-> <div style="max-width: 240px; margin: 0;">
+<div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
     <iframe
       src="https://www.youtube.com/embed/u_iFicqr1sQ?modestbranding=1&rel=0&playsinline=1"
@@ -170,7 +170,7 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
 > embrace me now  
 > and call me “I”
 
-> <div style="max-width: 240px; margin: 0;">
+<div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
     <iframe
       src="https://www.youtube.com/embed/Mri_15gBDq4?modestbranding=1&rel=0&playsinline=1"
@@ -200,10 +200,10 @@ AUDIO
 VIDEO
 
 #### 7. aria: _spacetime_
-spacetime is like an ocean
-the wave of which is song
-it washes up emotion
-each time I come along
+> spacetime is like an ocean  
+> the wave of which is song  
+> it washes up emotion  
+> each time I come along
 
 
 
