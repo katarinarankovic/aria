@@ -343,6 +343,27 @@ AUDIO
 
 _(From here on I focus on writing songs for now, but will come back to writing stage directions eventually.)_
 
+#### 14. aria: _what is this magic of the human heart_
+
+> what is it that keeps me  
+> pinned to the spot?  
+> what is, what is this magic  
+> of the human heart  
+> that keeps me glued to the spot?  
+>
+> what is this, what is this  
+> magic, magic  
+> of the human heart  
+> that keeps me, oh, keeps me  
+> glued down to the spot?  
+>  
+>  what is this sorcery,  
+> what is this magic  
+> of the human heart  
+> that keeps me glued  
+> to the spot?
+
+AUDIO
 
 
 
