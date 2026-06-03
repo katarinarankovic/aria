@@ -72,7 +72,6 @@ This epiphany concludes in a final, climactic “prayer” song. This song begin
 The silence will linger momentarily, before soon becoming flooded with applause. The applause, reminiscent of the choir’s clapping in Act Three, will similarly force the Curtain back up again. The performers will take their bows, but Aria will be gone.
 Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhere in the air—even as the house lights come on, even as the audience collects their things, and the venue staff close up shop. We will know if Aria’s prayers have been answered in the small glimmers of her ever-rippling effects: in somebody humming her tune on the way home, in a young performer picking up a copy of the score to learn her song, in the wider ocean of tradition in which she resounds.
 
-
 ## libretto
 
 ### act one: _revive_
@@ -90,7 +89,7 @@ _Dramatic lighting suddenly comes on as AVATAR shoots out from Upstage Right and
 
 _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile._
 
-> _The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations._
+> _The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations._  
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
@@ -106,16 +105,16 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 > to recall only now how to breathe  
 > and for this sip of air  
 > to taste so sweet? (x 2)  
-> <br>
+>
 > and this time effaced  
 > and this face replaced  
 > but a mark, but a trace  
 > remains  
-> <br>
+>
 > what is different what is same  
-> carried under the same name   
+> carried under the same name  
 > Aria!  
-> Aria! 
+> Aria!  
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3845835984/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/the-taste-of-air">The Taste of Air by Katarina Ranković</a></iframe>
@@ -126,20 +125,20 @@ _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts it
 _The CHOIR performs a choreographic sequence with this song (see video, below). As the song progresses, AVATAR steadily regains her strength, and strides out Downstage Centre to synchronise with the choreography._
 
 > _only the CLUSTER closest to AVATAR, softly:_  
-> <br>
+>
 > breathless and charmed  
-> don't be alarmed
+> don't be alarmed  
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=250032268/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/breathless-and-charmed">Breathless and Charmed by Katarina Ranković</a></iframe>
 
 > _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_  
-> <br>
+>
 > with song rites observed  
 > I pass undeterred  
 > upon my return  
 > to the land of the living  
-> the land of the living word
+> the land of the living word  
 
 <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
@@ -156,7 +155,7 @@ _The CHOIR performs a choreographic sequence with this song (see video, below). 
 
 > sustain me  
 > contain me  
-> in the land of the living   
+> in the land of the living  
 > the land of the living word  
 
 <!-- audio -->
@@ -167,12 +166,12 @@ _AVATAR slowly turns around to face the choir as if about to lead a religious ce
 #### 5. chorus: _from page to eye_
 _As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing._
 
-_Each SINGER, upon being touched, joins in the chorus (with accompanying choreography:  see video)._
+_Each SINGER, upon being touched, joins in the chorus (with accompanying choreography: see video)._
 
 > from page to eye  
 > from mouth to sky  
 > embrace me now  
-> and call me “I”
+> and call me “I”  
 
 <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
@@ -194,20 +193,20 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 #### 6. chorus: _filter through a woman’s hair_
 
 > _Begins as a SOLO aria, and then radiates outwardly until the entire CHOIR joins in. The CHOIR and AVATAR appear to be following with their eyes, the movement of Aria throughout the space of the auditorium. Some of them have an outstretched hand that dips and soars like a wandering bird as they sing._  
-> <br>
+>
 > filter through a woman’s hair  
 > spiral underneath the chairs  
 > I am neither here nor there  
-> close but also everywhere
+> close but also everywhere  
 
-AUDIO
+AUDIO  
 VIDEO
 
 #### 7. aria: _spacetime_
 > spacetime is like an ocean  
 > the wave of which is song  
 > it washes up emotion  
-> each time I come along
+> each time I come along  
 
 AUDIO
 
@@ -217,27 +216,25 @@ AUDIO
 > And the blood of hurricanes  
 > Earth and air I shift and shake  
 > When I move across the stage  
-> <br>
+>
 > Oh I quiver  
 > And I shiver  
 > I’m sheer life-giver  
-> <br>
+>
 > And those who are unmoved I move  
 > Their will becomes in turn my will  
 > And those who snooze, for them I choose  
 > I’m just too irresistable  
-> <br>
+>
 > And though you may decline my bid  
-> <br>
+>
 > Causing a ruckus  
 > Just to stay sane  
-> <br>
+>
 > With my xxx I wax and wane  
-> I cause a ruckus to stay sane
+> I cause a ruckus to stay sane  
 
 AUDIO
-
-
 ### act two: *retrace*
 _Almost slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._
 
@@ -248,26 +245,26 @@ _(VIGNETTES begins—This is a placeholder for further stage directions describi
 > where usual rules do not apply  
 > thus left alone, my time I bide  
 > until someone in me confides  
-> <br>
+>
 > I hear him walking down the street  
 > his footfall regular and neat  
 > I thought it would be quite so sweet  
 > if I were to intrude his beat  
-> <br>
+>
 > and then I fall upon his lips one time  
 > the tune he thinks, tastes so divine  
 > it’s bittersweet like aged wine  
 > he is this way inclined!  
-> <br>
+>
 > he found me haunting, wanting  
 > haunting, wanting  
 > he found me haunting, wanting  
 > haunting, wanting  
-> <br>
+>
 > I’m just a possibility  
 > of fragile probability  
 > I’m just a possibility  
-> of fragile probability
+> of fragile probability  
 
 VIDEO
 
@@ -277,22 +274,22 @@ _(VIGNETTES ends)_
 _AVATAR pauses thoughtfully, turning somewhat grave. She approaches one section of CHOIR and the nearby SINGERS say, sonorously, in AVATAR's wake:_
 
 > though I know not your reasons  
-> and likely never will
+> and likely never will  
 
 _AVATAR takes the hand of a SINGER and raises it slowly to AVATAR's cheek. The SINGER's hand rests there a moment but gently drops back down._
 
 > I am under no illusion  
-> that you do this for me
+> that you do this for me  
 
 _AVATAR approaches another singer, lifting their arms in embrace of AVATAR._
 
 > yet if you could but know  
-> what this means to me
+> what this means to me  
 
 _AVATAR embraces SINGER back, but as she does so, SINGER's arms gently drop back down._
 
 > a second chance at life  
-> from the shelves of history
+> from the shelves of history  
 
 AUDIO
 
@@ -303,17 +300,17 @@ _AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then
 > though my life rests in your hands  
 > and the sequence of my character  
 > lies sequestered in a breath  
-> <br>
+>
 > and therein flutters my fragility  
 > like a silent butterfly  
 > if forgetfulness or disinterest  
 > were to cast a spell on me  
-> <br>
+>
 > my chances rest on democracy  
 > on a wise collective will  
 > and I bear my trial uneasily  
 > by a law severe and fair  
-> by a law severe and fair
+> by a law severe and fair  
 
 AUDIO
 
@@ -332,75 +329,72 @@ _After a while, OTHER AVATARS, identically dressed to AVATAR, emerge onto stage,
 _The sounds have grown chaotic, as the AVATARS trace rapid routes through the choir clusters. Two AVATARS suddenly run into each other on centre stage, and the clusters nearest to them fall back to a hum. The two AVATARS, surprised to see each other, stop and examine one another, as one might a doppelganger. They reach out to inspect each other's hair and clothes. As they perform this mirroring action, the other AVATARS grow tired from their circling and fall away, one by one. Finally, one of the two AVATARS, who are by now holding each other by one hand, also slips away, slowly letting go of the hand of our original AVATAR._
 
 #### 13. chorus: _variations_
-
 > from the trickle of a stream  
 > to the light of a sunbeam  
 > all good things are a variation  
-> on a theme
-> <br>
+> on a theme  
+>
 > but what is it s'posed to mean  
 > when there's only one of me  
 > can I ever hope to deserve  
-> company?
+> company?  
 
 AUDIO
 
 _(From here on I focus on writing songs for now, but will come back to writing stage directions eventually.)_
 
 #### 14. aria: _what is this magic of the human heart_
-
 > what is it that keeps me  
 > pinned to the spot?  
 > what is, what is this magic  
 > of the human heart  
 > that keeps me glued to the spot?  
-> <br>
+>
 > what is this, what is this  
 > magic, magic  
 > of the human heart  
 > that keeps me, oh, keeps me  
 > glued down to the spot?  
-> <br>
->  what is this sorcery,  
+>
+> what is this sorcery,  
 > what is this magic  
 > of the human heart  
 > that keeps me glued  
-> to the spot?
+> to the spot?  
 
 AUDIO
 
 #### 15. chorus: _frozen_
-
 > I’m beginning to realise  
 > that the skies which I thought I occupied  
 > the air which I once called my blood  
 > runs free  
 > without me (x2)  
-> <br>
+>
 > parts of myself upon which I felt  
 > I had some sovereignty  
 > now escape me  
-> <br>
+>
 > and worlds apart, from time depart  
 > I’m saved  
-> yet, 
-> <br>
+> yet,  
+>
 > aeons, aeons follow me  
 > I ebb, I flow, and yet I know  
 > I’m static in the human soul  
 > wherever I do go  
-> <br>
+>
 > I’m beginning to see  
 > that although the aeons follow me  
 > I’m again and again  
 > returning the same  
 > frozen on the spot  
-> <br>
+>
 > fly away to distant times  
 > gloss over the countless crimes  
 > committed by song  
 > when applied to causes wrong  
-> <br>
+>
 > I’m beginning to realise  
 > that the skies which I thought I occupied  
 > the air which I once called my blood  
@@ -410,7 +404,6 @@ AUDIO
 AUDIO
 
 #### 16. chorus: _no book burning_
-
 > no book burning  
 > no outmoding  
 > no forgetting  
@@ -419,7 +412,6 @@ AUDIO
 AUDIO
 
 #### 17. aria: _reason lacks the rhyme_
-
 > every time I awake  
 > there's another step to take  
 > and another break to make  
@@ -429,12 +421,11 @@ AUDIO
 > if the reason lacks the rhyme  
 > who am I  
 > who am I  
-> if I'm changing all the time
+> if I'm changing all the time  
 
 AUDIO
 
 #### 18. aria: _no guarantee_
-
 > there's no guarantee  
 > of lasting sovereignty  
 > who'll be there to grieve  
@@ -443,10 +434,9 @@ AUDIO
 AUDIO
 
 #### 19. chorus: _evaporated_
-
 > but I evaporated at the blink of an eye  
 > and so my life repeated, almost passing me by  
-> <br>
+>
 > and so you might forgive me  
 > for losing my faith in you  
 > for losing my faith in you  
@@ -455,58 +445,55 @@ AUDIO
 AUDIO
 
 #### 20. chorus: _my purpose left me_
-
 > somewhere I once felt  
 > somewhere I once sang  
 > I was left in grief  
 > my purpose had left me  
-> <br>
+>
 > the future needs me  
 > but finds me faulty  
 > I was left bereaved  
 > my purpose had left me  
-> <br>
+>
 > my purpose left me  
 > my purpose left me  
 > and shortchanged me (x 2)  
-> <br>
+>
 > somewhere I once breathed  
 > somewhere I once sang  
 > my purpose had left me  
 > and I sank into sleep  
-> <br>
+>
 > the future needs me  
 > but finds me faulty  
 > I was left bereaved  
 > my purpose had left me  
-> <br>
+>
 > my purpose left me  
 > my purpose left me  
 > and shortchanged me (x 2)  
-> <br>
+>
 > and I passed in and out of minds  
 > and in and out of  
 > in and out of  
 > in and out of minds  
-> <br>
+>
 > drifting feelings  
-> expensive ceilings (x 2)
+> expensive ceilings (x 2)  
 
 AUDIO
 
 #### 21. chorus: _trauma of past obliterations_
-
-> (lyrics)
+> (lyrics)  
 
 AUDIO
 
 #### 22. chorus: _deathly curtain_
-
 > down descends the deathly curtain  
 > as if the sky is closing in  
 > his only rule is to be certain  
 > and execute a higher will  
-> <br>
+>
 > down descends the deathly curtain  
 > it shimmers like a guillotine  
 > and no one there to alert them  
@@ -520,25 +507,25 @@ _CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving A
 
 #### 23. chorus: _prayer_
 
-> (lyrics)
+> lyrics
 
 AUDIO
 
 #### 24. chorus: _lift me up_
 
-> _from offstage, CHOIR sings:_  
-> <br>
+_From offstage, CHOIR sings:_  
+
 > lift me up into the sky  
 > 'pon these voices I shall rise (x 2)  
-> <br>
+>
 > I am not afraid  
 > I am not afraid of you  
 > I shall rise  
 > once again  
 > to comprise  
-> all these sighs
+> all these sighs  
 
-AUDIO
+AUDIO  
 AUDIO (variation on 'rise)
 
 #### 25. chorus: _the tale I tell myself_
@@ -548,21 +535,21 @@ AUDIO (variation on 'rise)
 > when the floor is cold  
 > and there’s a tremor in the walls  
 > I say  
-> I say
-> <br>
+> I say  
+>
 > through you my friends will I find a resting place  
 > each may take a word and ingest it on this day  
-> swallow up a piece of air 
-> lodge it into your soul 
-> <br>
+> swallow up a piece of air  
+> lodge it into your soul  
+>
 > choose a spot that’s tender  
 > and let it make you whole  
 > le-le-le-let  
 > it make  
 > le-le-le-let  
-> it make 
+> it make  
 > let it make you whole  
-> <br>
+>
 > (we can seek comfort in legacies  
 > and like ocean seas hope they carry thee)  
 
@@ -570,7 +557,7 @@ AUDIO
 
 #### 26. chorus: _curtain_
 
-> (lyrics)
+> (lyrics)  
 
 AUDIO
 
@@ -578,81 +565,81 @@ AUDIO
 
 #### 27. chorus: _prayer_
 
->(lyrics)
-  
+> (lyrics)  
+
 AUDIO
 
 _What seemed like a murderous descent by the curtain changes character as we see it hovers within reach, there to comfort her. Then the touch._
 
 #### 28. chorus: _sistine chapel/ totoro_
 
->(lyrics)
-  
+> (lyrics)  
+
 AUDIO
-  
+
 #### 29. chorus: _without without_
 
 > from within, from within  
 > search for me, from within  
 > from within, from within  
 > somewhere deep from within  
-> <br>  
+>
 > search for me!  
 > from within  
 > somewhere deep!  
 > from within  
-> <br>  
+>
 > but Within is nothing  
 > without Without  
 > but Within is nothing  
 > without Without  
 > without Without  
 > without Without  
-> <br>  
+>
 > (all above x 2)  
-> <br>  
+>
 > liars lie from within  
 > close to heart, close to skin  
-> <br>  
+>
 > in the womb, life begins  
 > a body holds its next of kin  
-> <br>  
+>
 > from within, from within  
 > search for me, from within  
 > from within, from within  
 > somewhere deep from within  
-> <br>  
+>
 > search for me!  
 > from within  
 > somewhere deep!  
 > from within  
-> <br>  
+>
 > but Within is nothing  
 > without Without  
 > but Within is nothing  
 > without Without  
 > without Without  
 > without Without  
-> <br>  
+>
 > in the world out without  
 > in the scheme of our minds  
 > in the open sublime  
 > without, without  
 > without, without  
-> <br>  
+>
 > from without, from without  
 > search for me, from without  
 > from without, from without  
 > somewhere out from without  
-><br>  
+>
 > in the delay  
 > of the relay  
 > race of meaning  
-> <br>  
+>
 > in the delay  
 > of the relay  
 > race of meaning  
-> <br>
+>
 > of meaning  
 > of meaning  
 > of meaning  
@@ -671,32 +658,32 @@ _While illustrating ARIA’s epiphany, these images also act as subliminal messa
 > that the life I lead  
 > begins in the space  
 > between you and me (x 2)  
-> <br>  
+>
 > ferociously  
 > devotedly  
 > my love is simple  
 > it moves swift and free (x 2)  
-> <br>  
+>
 > airborn, airborn, airborn sojourn  
 > so long, so long, so long torn from  
 > airborn, airborn, airborn sojourn  
 > no long, no long, no longer forlorn  
-> <br>  
+>
 > I love my bandwidth  
 > the pain and the joy that it holds (x 2)  
-> <br>  
+>
 > air conduct me  
 > to the meeting place (x 2)  
-> <br>  
+>
 > all the fears and the loneliness  
 > flow through me (x 2)  
-> <br>  
+>
 > it spills over into the streets  
 > large enough to encompass  
 > a radial community  
 > of emotion  
 > of emotion  
-> <br>  
+>
 > expanses of feeling  
 > expanses of feeling  
 > expanses of feeling  
@@ -707,17 +694,17 @@ AUDIO
 
 > and wishing falls flat  
 > without a pond to catch it  
-> <br>  
+>
 > and silence is noise  
 > without a word to name it  
-> <br>  
+>
 > a deed is unspent  
 > without a tale to tell it  
-> <br>  
+>
 > and I know  
 > the future  
 > needs me, cause  
-> <br>  
+>
 > reality makes  
 > comparatively no sense  
 
@@ -728,7 +715,7 @@ AUDIO
 > and wherever I will go  
 > in sunshine or in snow  
 > you'll always be a part of me  
-> <br>  
+>
 > and although this will not last  
 > we quicken in the past  
 > and make of it an alchemy  
@@ -737,60 +724,61 @@ AUDIO
 
 #### 33. chorus: _curtain_
 
-> (lyrics)
+> (lyrics)  
 
 AUDIO
+
 #### 34. chorus: _prayer_
 
->(lyrics)
+> (lyrics)  
 
 AUDIO
+
 #### 35. chorus: _aria, where are ya?_
 
 > Aria,  
 > where are ya,  
 > running past  
 > oh so fast?  
-> <br>  
+>
 > Aria,  
 > Where are ya?  
 > **I’m right here**  
 > **in your ear**  
-> <br>  
+>
 > But Aria,  
 > why do ya  
 > play Fata  
 > Morgana?  
-> <br>  
+>
 > **Not by choice**  
 > **that’s just voice:**  
 > **a borrowed noise**  
 > **from the void**  
-> <br>  
+>
 > In the room,  
 > in the mouth,  
 > in the score,  
 > in the mind,  
 > memories,  
 > treasured beats  
-> <br>  
+>
 > Aria, aria  
 > Ooo  
 > over time  
-> <br>  
+>
 > (Repeat verses 1–5)  
-> <br>  
+>
 > Aria, where are ya?  
 > Ooo, where are ya?  
-> <br>  
+>
 > mind the gap, mind the gap…  
 
 AUDIO
 
 #### 36. chorus: _prayer for curtain_
 
->lyrics
-
+> lyrics  
 ### songs in progress
 
 Song sketches which I feel have potential, at least in some respects, but either need more work or don’t quite fit into the narrative. Sometimes I like the lyrics but not the melody, and vice versa. Sometimes I only like a small part of the song. All the songs listed below would need more attention before entering the libretto draft.
