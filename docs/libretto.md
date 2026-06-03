@@ -159,15 +159,18 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
 > embrace me now  
 > and call me “I”
 
-<iframe
-  width="100%"
-  height="500"
-  src="https://www.youtube.com/watch?v=Mri_15gBDq4&feature=youtu.be"
-  title="From Page to Eye"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<div style="max-width: 420px; margin: 0 auto;">
+  <div style="position: relative; width: 100%; padding-top: 177.78%;">
+    <iframe
+      src="https://www.youtube.com/embed/Mri_15gBDq4?modestbranding=1&rel=0&playsinline=1"
+      title="Song sketch"
+      style="position: absolute; inset: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 
 
