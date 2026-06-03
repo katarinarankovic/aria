@@ -321,7 +321,27 @@ _MUSICIAN emerges from their position to give a directive note to a small group.
 
 #### 12. chorus: _ripples_
 
+_MUSICIAN lets AVATAR stand by their instrument, gives her a look as if to cue her, and then begins a variation on the overture theme. He gestures with his playing, as if he is paving a path for AVATAR with his music. AVATAR takes a breath as he starts, and walks back into the throng. The CHOIR is humming, remaining in its clusters but attentive to the resumption of music. Wandering through the clusters, AVATAR sets off small ripples of harmonic vocalisations, which can be imagined as the ripples of a rock skipping through water._
 
+_After a while, OTHER AVATARS, identically dressed to AVATAR, emerge onto stage, taking random routes through the choir. The OTHER AVATARS collectively set off a growing cacophony of choral interference patterns among the choir. This part could potentially be improvised._
+
+_The sounds have grown chaotic, as the AVATARS trace rapid routes through the choir clusters. Two AVATARS suddenly run into each other on centre stage, and the clusters nearest to them fall back to a hum. The two AVATARS, surprised to see each other, stop and examine one another, as one might a doppelganger. They reach out to inspect each other's hair and clothes. As they perform this mirroring action, the other AVATARS grow tired from their circling and fall away, one by one. Finally, one of the two AVATARS, who are by now holding each other by one hand, also slips away, slowly letting go of the hand of our original AVATAR._
+
+#### 13. chorus: _variations_
+
+> from the trickle of a stream  
+> to the light of a sunbeam  
+> all good things are a variation  
+> on a theme
+>
+> but what is it s'posed to mean  
+> when there's only one of me  
+> can I ever hope to deserve  
+> company?
+
+AUDIO
+
+_(From here on I focus on writing songs for now, but will come back to writing stage directions eventually.)_
 
 
 
