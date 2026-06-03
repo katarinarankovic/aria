@@ -1,4 +1,10 @@
-# Aria and the Curtain | A Libretto
+# Aria and the Curtain | Libretto
+
+Please note:
+
+- Throughout this libretto, you will find links to clips of Katarina singing and performing simple choreographies. These clips are illustrative only and are presented as sketches or notation to be further interpreted by composers, directors and singers. Read about how to contribute here.
+- This libretto can be provided as a performance programme.
+
 
 ## performance elements
 
@@ -6,9 +12,9 @@
 Aria is an immaterial being that is conjured into existence whenever the choir sings her score. She comes alive as a result of all the other performance elements playing their parts. As a kind of ‘living pattern’, she is not collected into any singular location on the stage and cannot be identified with any one performer alone.
 
 ### avatar
-The avatar is different in kind to the other performers on stage.
+The avatar is a special kind of performer designed to translate Aria’s moods and temperaments for the audience, like a sign language interpreter.
 
-The avatar is mute: she does not speak or sing. She is expressive in terms of her bodily movements, emotion and physical influence on the choir.
+The avatar is mute: she does not speak or sing. She is expressive through her bodily movements, emotion and physical influence on the choir.
 
 As the choir performs, each singer is influenced by what the avatar is doing. The avatar has the power to conduct them with her proximity, movements and touch.
 
@@ -28,9 +34,11 @@ The choir is composed of singers who play themselves.
 The choir singers act in much the same way as they would at a rehearsal. They are relaxed and affable with one another, they wear clothes that they are comfortable in and which they would normally wear, and they have come to this performance for the very same reasons they otherwise gather for regular, informal choir practice.
 
 The choir is no more aware of the avatar moving amongst them than they would be of a draught, or gravity.
-This means they are not entirely unaware of the avatar. Like gravity, the avatar enacts natural forces which they must obey. Yet, also like gravity, from their perspective this is scarcely worth noting; it is a natural law of the performance and the choir obeys her without much concern.
+
+This means they are not entirely _unaware_ of the avatar. Like gravity, the avatar enacts natural forces which they must obey. Yet, also like gravity, from their perspective this is scarcely worth noting; it is a natural law of the performance and the choir obeys her without much concern.
 
 Throughout the performance, the choir singers pay visible attention to each other, to the audience, and to the musicians. They may occasionally look at the avatar, or visibly regard her for a moment, but this is only in passing, and their knowledge of her presence does not emotionally stir the choir singers. Like a breeze, the avatar moves and fusses around them, influencing them, but without attracting much of their conscious attention.
+
 
 ### musicians
 The musicians are the facilitators of Aria's will. They are her attendants. They either follow her, or clear a path for her, with their music.
@@ -42,16 +50,17 @@ While at first appearing to be her antagonist, the Curtain turns out to play a f
 
 The Curtain will need to be operated (vertically) during the performance as well as at the end.
 
+
 ### murmur
 Murmur is the sound that is associated with pause. Wherever there would normally be silence in a musical performance (such as between numbers), there is instead murmur. It is a soft, gentle, sound created by the choir and/or musicians that underlies the whole performance. It should sound pleasant but neutral.
 
-The role of murmur in this performance is similar to that of the ongoing, baseline electrical activity that occurs in brain cells when they are at rest (not sending any signals). Brain cells communicate information both by firing and not firing electrical signals. Likewise, in this performance, both song and silence are meaningful sounds. Murmur is everything else. It signifies a kind of sonic unconscious.
+The role of murmur in this performance is similar to that of the ongoing, baseline electrical activity that occurs in brain cells when they are at rest (not sending any signals). Brain cells communicate information both by firing _and_ not firing electrical signals. Likewise, in this performance, both song and silence are meaningful sounds. Murmur is everything else. It signifies a kind of sonic unconscious.
 
 ### hum
 Hum is the sound that is associated with stirring. It occurs wherever there is a buildup of excitement, concentration or harmonised activity among the choir. It is continuous and steady, but more musical than murmur, and buzzes like a swarm of wings. Hum signifies a kind of sonic attention.
 
 ### silence
-Silence is the sound that is associated with the Curtain. The only time true silence can be heard during the performance is when the Curtain is moving downwards. Silence signifies incomprehension. It is the sound of fear.
+Silence is the sound that is associated with the Curtain. The only time true silence can be heard during the performance is when the Curtain is moving downwards. Silence signifies incomprehension. It is the sound of fear
 
 ## story arc
 In Act One (Revive), Aria gasps back into life, overwhelmed with the vibrancy of experience as if resurfacing from being almost drowned. The performance opens with ecstatic and energetic displays of the depth of Aria’s sensory experience and enormous capacity for feeling. The choir is her body, and her expressive orchestration of their humanity is a flamboyant display of her freedom.
