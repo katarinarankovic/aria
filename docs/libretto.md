@@ -75,8 +75,6 @@ In **Act Four (Resound)**, Aria is thrown to the depths of despair. She mourns n
 
 This epiphany concludes in a final, climactic “prayer” song. This song begins with the inkling that Aria may not only persist in her absence, but entirely depends on absence. It is in absence alone that she can “resonate”. She must recede for her effects to percolate in the hearts and minds of people. The song builds up over cycles of repetition, until the choir intensifies their song with the chanting of a single word or phrase (e.g. “and quicken, and quicken, and quicken!”). The song ends abruptly in silence and is promptly followed by the Curtain finally falling all the way down to the floor and Aria embracing her end.
 
----
-
 The silence will linger momentarily, before soon becoming flooded with applause. The applause, reminiscent of the choir’s clapping in Act Three, will similarly force the Curtain back up again. The performers will take their bows, but Aria will be gone.
 Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhere in the air—even as the house lights come on, even as the audience collects their things, and the venue staff close up shop. We will know if Aria’s prayers have been answered in the small glimmers of her ever-rippling effects: in somebody humming her tune on the way home, in a young performer picking up a copy of the score to learn her song, in the wider ocean of tradition in which she resounds.
 
@@ -98,7 +96,7 @@ Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhe
 AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile.*
 
 > *The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations.*
-> <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1469730952/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/a-tale-i-tell-myself">A Tale I Tell Myself by Katarina Ranković</a></iframe>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
 
 #### 5. chorus: *from page to eye*
 As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing.
