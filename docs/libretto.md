@@ -96,15 +96,15 @@ Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhe
 AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile.*
 
 > *The CLUSTER of singers closest to AVATAR sings through rhythmic, hyperventilating inhalations.*
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=589375299/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/gasp-2">Gasp by Katarina Ranković</a></iframe>
 
 #### 5. chorus: *from page to eye*
 As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing.
 Each SINGER, upon being touched, joins in the chorus (with accompanying choreography:  see video).
 
-> from page to eye,
-> from mouth to sky
-> embrace me now
+> from page to eye\
+> from mouth to sky\
+> embrace me now\
 > and call me “I”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mri_15gBDq4?si=WJ0_FnBPSwzwNzDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
