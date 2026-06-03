@@ -16,6 +16,7 @@ function initTocCollapse() {
       p = p.parentElement;
     }
     return Math.max(0, depth - 1);
+    console.log("TOC collapse script ran");
   }
 
   items.forEach((li) => {
