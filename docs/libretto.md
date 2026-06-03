@@ -407,6 +407,29 @@ AUDIO
 
 #### 16. chorus: _no book burning_
 
+> no book burning  
+> no outmoding  
+> no forgetting  
+> not yet  
+
+AUDIO
+
+#### 17. aria: _reason lacks the rhyme_
+
+> every time I awake  
+> there's another step to take  
+> and another break to make  
+> with myself  
+> who am I?  
+> over time and over lives  
+> if the reason lacks the rhyme  
+> who am I  
+> who am I  
+> if I'm changing all the time
+
+AUDIO
+
+
 
 ### act three: *resist*
 
