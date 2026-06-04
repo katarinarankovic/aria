@@ -35,8 +35,7 @@
               "title": "WORKFLOW"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed2e514ab21d0e31",
@@ -109,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORKFLOW.md",
-                "collapseAll": false,
+                "file": "docs/libretto.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WORKFLOW"
+              "title": "Backlinks for libretto"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORKFLOW.md",
+                "file": "docs/libretto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WORKFLOW"
+              "title": "Outgoing links from libretto"
             }
           },
           {
@@ -171,21 +171,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORKFLOW.md",
+                "file": "docs/libretto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WORKFLOW"
+              "title": "Outline of libretto"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +198,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd26aba6a58f7a45",
+  "active": "907355bce60a953b",
   "lastOpenFiles": [
-    "docs/libretto.md",
-    "WORKFLOW.md"
+    "WORKFLOW.md",
+    "docs/libretto.md"
   ]
 }

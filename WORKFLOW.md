@@ -18,16 +18,13 @@ Sometimes MkDocs doesn’t auto-reload the browser tab. Two easy fixes:
 
 CAPITALS = character
 
->block quote = lyrics
+>block quote = lyrics (2 spaces after each line to create break)
 
 <!-- audio --> = invisible bandcamp embedding (visible on the site)
 
-Use:
-```
-<br>
-``` 
-inside lyric blocks to force line breaks.
+## editions / releases
 
+ **Start tagging versions** whenever you feel you’ve hit a meaningful milestone (v0.1, v0.2…) so collaborators can cite a stable edition. Chatty will teach you how.
 
 ## media embeddings
 

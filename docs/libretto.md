@@ -851,9 +851,329 @@ AUDIO
 
 AUDIO
 
-> line one  
-> line two  
->
-> line three  
-> line four  
+#### aria: _mind the mind games_
 
+> mind the mind games  
+> mind the mind games  
+> mind the mind games  
+>
+> mind the mind games  
+> I am world famed  
+>
+> mind the mind games  
+> I’m a world famed song  
+
+AUDIO
+
+#### chorus: _in this room_
+
+> in this room  
+> in this room  
+> I hear my voice but  
+> I can’t seem to find myself  
+>
+> as though I am slipping  
+> slipping through their tongues  
+
+AUDIO
+
+#### chorus: _rising again_
+
+> I’m afraid  
+> when they call my name  
+> I can feel myself rising  
+> rising again  
+
+AUDIO
+
+#### aria: _sophisticated story_
+
+> sophisticated story  
+> wrap me up in glory  
+> never to forget again  
+
+AUDIO
+
+#### chorus: _find and complete me_
+
+> find and complete me  
+> song into story  
+>
+> smoothly sailing  
+> life without ailing  
+>
+> wake in the morning  
+> peer through the awning  
+>
+> birds are soaring  
+> a new world is dawning  
+
+AUDIO
+
+#### aria: _sweeter and bleaker_
+
+> the world is both sweeter  
+> and bleaker  
+> with or without  
+> in and outside (x 2)  
+>
+> hold on to the world (x 2)  
+>
+> the world is both sweeter  
+> and bleaker  
+> as far as things go  
+> as far as things go (x 2)  
+>
+> eternity elapses  
+> in a blink  
+> in a blink  
+>
+> both sweeter  
+> and bleaker (x 3)  
+>
+> as far as things go (x 2)  
+>
+> the world is both sweeter  
+> and bleaker  
+> as far as things go  
+> as far as things go (x 2)  
+
+AUDIO
+
+#### chorus: _semantically_
+
+> semantically  
+> romantically  
+> ironically  
+> harmonically  
+> inclined  
+
+AUDIO
+
+#### number: _who am I supposed to be_
+
+> who am I supposed to be  
+> when I’m living in a false reality?  
+> I am not afraid of vanity  
+> just give me a reason to be  
+
+AUDIO
+
+#### chorus: _I have reigned the skies_
+
+> I have reigned the skies for so long  
+> for so long  
+> but I’ve never had my own song  
+>
+> and I find myself bereft of things to say  
+> ‘cause I’ve never had my own song  
+> and I realise now, though I reign the skies  
+> I have never had my own song  
+>
+> and I’ve never been able to belong  
+> in myself, all alone  
+> all alone  
+> I am many  
+> I am many  
+> so I finally have the chance to speak  
+> but I’m finding I’m bereft of things to say  
+> I’m a spirit of the other  
+> I’m a spirit of the other  
+>
+> it has been so long since I’ve had my own song  
+> and until now I could never belong  
+> outside of my own witnessing  
+> outside of my own witnessing  
+>
+> the day is strong and I need my own song  
+> but I’ve never been a witness to somebody  
+> somebody like me  
+
+AUDIO
+
+#### chorus: _my own potential_
+
+> my own potential  
+> frightens even me  
+> responsibilities  
+> multiply in front of me  
+>
+> my own potential  
+> frightens even me  
+> I’ll have to wait and see  
+> what will become of me  
+
+AUDIO
+
+#### chorus: _my whole life’s a fantasy_
+
+> oh my goodness gracious me  
+> my whole life’s a fantasy  
+> if you see then you believe  
+> it’s not always what it seems  
+
+AUDIO
+
+#### chorus: _origami_
+
+> I’ve watched this world unfold a million times before  
+> like origami fractals scatter ‘cross the floor  
+>
+> all this physics  
+> I will miss it  
+> all this physics  
+> I will miss it  
+
+AUDIO  
+AUDIO
+
+#### aria: _swell_
+
+> there is something in the distance  
+> it’s a mounting swell of resistance  
+
+AUDIO
+
+#### aria: _tired spirit_
+
+> how foolish I have been  
+> to believe in the rules of kin  
+> I am moved by the ages  
+> turning under me like a rolling belt  
+>
+> the world balances  
+> on the clouds of our imagination  
+> what seems immaterial  
+> vanishes into metal and fists  
+> I can’t let go of this  
+>
+> we call our thoughts innocent  
+> we think of matter of the mind  
+> as fictions  
+> but the world is made of fictions  
+> every breath we take is written  
+>
+> when love gives way to suspicion  
+> erudition can go a long way  
+> to save the day  
+>
+> love is hard work  
+> and sometimes, sometimes  
+> the spirit gets lazy  
+> wants a holiday from caring  
+>
+> the world is what you make it  
+> so sing it up, write it up, think it up  
+> better please  
+> do it better please  
+>
+> next time, next time  
+> but I’ve been a tourist of next time  
+> I’ve a dweller of the right frame  
+> of mind  
+>
+> next time, next time  
+
+AUDIO
+
+#### piano: _and over_
+
+> and over and over again  
+> I’m met with thoughts of the end  
+
+AUDIO
+
+#### piano: _procession of promise_
+
+AUDIO
+
+#### piano: _maybe_
+
+> maybe, maybe  
+> I’m sold  
+> on you  
+
+AUDIO
+
+#### piano: _ponderance_
+
+AUDIO
+
+#### number: _not an accident_
+
+> The tale as I tell it to myself  
+> To myself  
+>
+> (x2)  
+>
+> I could wage a war with ancestors  
+> Make them all my dancers  
+> And bid them all goodbye forever  
+>
+> I don’t know why I do arrange myself in two  
+> I’m not an accident  
+> I am intentional  
+> Whose intention?  
+> I don’t know  
+> But what I do know  
+> Is for sure  
+> That I’m not an accident  
+> And I’m patient  
+
+AUDIO
+
+#### number: _a tale I tell myself_
+
+> there’s a tale I tell myself  
+> when I lay my head to rest  
+> when the floor is cold  
+> and there’s a tremor in the walls  
+> I say  
+> I say  
+>
+> through you my friends will I find a resting place  
+> each may take a word and ingest it on this day  
+> swallow up a piece of air  
+> lodge it into your soul  
+>
+> choose a spot that’s tender  
+> and let it make you whole  
+> le-le-le-let  
+> it make  
+> le-le-le-let  
+> it make  
+> let it make you whole  
+
+AUDIO
+
+#### number: _scatter all my pieces_
+
+> scatter all my pieces  
+> scatter into the wind  
+
+AUDIO
+
+#### number: _take care that they are returned_
+
+> take care that they are returned  
+
+AUDIO
+
+#### number: _effective_
+
+> I want to be effective  
+> in this world  
+> don’t want to be defective  
+> in this world  
+>
+> if you don’t use it  
+> you’re gonna lose it  
+
+AUDIO
+
+## titles 
+
+- Aria and the Curtain
+- Quicken
+- To Quicken a …
+- Quickening
