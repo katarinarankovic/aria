@@ -98,10 +98,12 @@ _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pai
 
 _Searching for something to hold on to, AVATAR leans on a SINGER’s leg. The SINGER gently helps AVATAR up, but unconsciously, scarcely noticing the act._ 
 
-_The breath-singing continues as AVATAR staggers across the front of the stage, occasionally pausing by a SINGER to lean on them for support, to wipe her tears with their collar, or show signs of affection and gratitude. As AVATAR fumbles across the stage, the SINGERS she passes unconsciously and gently extend arms or bend down to help AVATAR along, although they are scarcely aware that she is there, even as she grasps and looks at them intimately. Music bleeds into the breath-singing, leading into the first aria._
+_The breath-singing continues as AVATAR staggers across the front of the stage, occasionally pausing by a SINGER to lean on them for support, to wipe her tears with their collar, or show signs of affection and gratitude. As AVATAR fumbles across the stage, the SINGERS she passes unconsciously and gently extend arms or bend down to help AVATAR along, although they are scarcely aware that she is there, even as she grasps and looks at them intimately._ 
+
+_Music bleeds into the breath-singing, leading into the first aria. The breath-singing should sound like the watery whispers of tumultuous waves. The lyrical singing and melodic overtones should sound like a boat holding itself together atop these waves._
 
 #### 3. chorus: _the taste of air_
-_AVATAR grows increasingly bold and flings herself this way and that downstage, pendulum-like, occasionally tripping. Some SINGERS sing the song while the rest continue the breath-singing underneath._
+_AVATAR grows increasingly bold and flings herself this way and that downstage, pendulum-like, occasionally tripping. Some SINGERS sing the following words while the rest continue the breath-singing underneath._
 
 > have I held my breath for an age  
 > to recall only now how to breathe  
