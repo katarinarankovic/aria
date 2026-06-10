@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORKFLOW.md",
+                "file": "workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WORKFLOW"
+              "title": "workflow"
             }
           }
         ]
@@ -200,7 +200,7 @@
   },
   "active": "907355bce60a953b",
   "lastOpenFiles": [
-    "WORKFLOW.md",
+    "workflow.md",
     "docs/libretto.md"
   ]
 }

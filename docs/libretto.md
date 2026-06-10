@@ -84,6 +84,8 @@ _On the stage, some SINGERS are flipping through the pages of the score, checkin
 #### 1. overture: _waiting_
 _The house lights are still on. The SINGERS continue talking, preparing and lounging as the MUSICIANS begin to play a section that takes as its very theme the ‘preparatory’ sounds that the CHOIR and the AUDIENCE are making. The composition may comprise sounds including but not limited to coughs, paper shuffles, sneezes, laughs, vocal exercises, instrument tuning and murmuring. It is designed to blend from non-performance to performance as seamlessly as possible._
 
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2078589050/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/waiting">Waiting by Katarina Ranković</a></iframe>
 #### 2. chorus: _gasp_
 _Dramatic lighting suddenly comes on as AVATAR shoots out from Upstage Right and darts diagonally across the stage, through the CHOIR. A trill of gasps erupt in succession from the SINGERS she runs past, and a couple of disturbed sheets of score fly in the air where she just was._ 
 
@@ -802,6 +804,11 @@ AUDIO
 #### 36. chorus: _prayer for curtain_
 
 > lyrics  
+
+
+THE END!
+
+
 ### songs in progress
 
 Song sketches which I feel have potential, at least in some respects, but either need more work or don’t quite fit into the narrative. Sometimes I like the lyrics but not the melody, and vice versa. Sometimes I only like a small part of the song. All the songs listed below would need more attention before entering the libretto draft.
