@@ -108,7 +108,12 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 > have I held my breath for an age  
 > to recall only now how to breathe  
 > and for this sip of air  
-> to taste so sweet? (x 2)  
+> to taste so sweet? 
+>
+> have I dwelt in a dark place submerged
+> to resurface again with a surge
+> and the pain in my heart
+> at last dispersed?
 >
 > and this time effaced  
 > and this face replaced  
@@ -226,29 +231,21 @@ AUDIO
 
 AUDIO
 
-#### 8. chorus: _fantasia_
+#### 8. chorus: _my blood_
 > I am made  
 > of the stuff of earthquakes  
 > And the blood of hurricanes  
 > Earth and air I shift and shake  
 > When I move across the stage  
 >
-> Oh I quiver  
-> And I shiver  
-> I’m sheer life-giver  
+> Oh I quiver!
+> And I shiver!  
+> I’m sheer life-giver!  
 >
 > And those who are unmoved I move  
 > Their will becomes in turn my will  
 > And those who snooze, for them I choose  
-> I’m just too irresistable  
->
-> And though you may decline my bid  
->
-> Causing a ruckus  
-> Just to stay sane  
->
-> With my xxx I wax and wane  
-> I cause a ruckus to stay sane  
+> It's just too irresistible!  
 
 AUDIO
 ### act two: *retrace*
