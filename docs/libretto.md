@@ -319,8 +319,8 @@ _AVATAR embraces SINGER back, but as she does so, SINGER's arms gently drop back
 > a second chance at life  
 > from the shelves of history  
 
-AUDIO
-
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1667488698/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/no-illusions">No Illusions by Katarina Ranković</a></iframe>
 #### 11. aria: _aria's chances_
 _AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then takes the hand of a MUSICIAN holding their instrument, and brings them to join the SINGER. Upon seeing each other, the SINGER and MUSICIAN smile and acknowledge each other, still scarcely paying heed to AVATAR. SINGER and MUSICIAN will perform the next aria as a duet, regarding at times each other, at times regarding the audience, treating their performance as a pleasant recital, rather than the living expression of ARIA._
 
@@ -340,7 +340,8 @@ _AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then
 > by a law severe and fair  
 > by a law severe and fair  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=4270447211/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/arias-chances">Aria&#39;s Chances by Katarina Ranković</a></iframe>
 
 _AVATAR kneels. The CHOIR marches 4 or 5 steps forward, washing over her until she disappears, as if under a wave._
 
@@ -367,7 +368,8 @@ _The sounds have grown chaotic, as the AVATARS trace rapid routes through the ch
 > can I ever hope to deserve  
 > company?  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3155340998/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/variations">Variations by Katarina Ranković</a></iframe>
 
 _(From here on I focus on writing songs for now, but will come back to writing stage directions eventually.)_
 
@@ -390,7 +392,8 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 > that keeps me glued  
 > to the spot?  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2236142677/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/what-is-this-magic-of-the-human-heart">What Is This Magic of the Human Heart by Katarina Ranković</a></iframe>
 
 #### 15. chorus: _frozen_
 > I’m beginning to realise  
@@ -429,7 +432,8 @@ AUDIO
 > runs free  
 > without me  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2412980908/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/frozen">Frozen by Katarina Ranković</a></iframe>
 
 #### 16. chorus: _no book burning_
 > no book burning  
@@ -437,7 +441,8 @@ AUDIO
 > no forgetting  
 > not yet  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1938020169/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/no-book-burning">No Book Burning by Katarina Ranković</a></iframe>
 
 #### 17. aria: _reason lacks the rhyme_
 > every time I awake  
@@ -451,7 +456,8 @@ AUDIO
 > who am I  
 > if I'm changing all the time  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=913897391/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/reason-lacks-the-rhyme">Reason Lacks the Rhyme by Katarina Ranković</a></iframe>
 
 #### 18. aria: _no guarantee_
 > there's no guarantee  
@@ -459,7 +465,8 @@ AUDIO
 > who'll be there to grieve  
 > when I've ceased to be?  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1432342734/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/no-guarantee">No Guarantee by Katarina Ranković</a></iframe>
 
 #### 19. chorus: _evaporated_
 > but I evaporated at the blink of an eye  
@@ -470,7 +477,8 @@ AUDIO
 > for losing my faith in you  
 > for losing my faith in me  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1246930601/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/evaporated">Evaporated by Katarina Ranković</a></iframe>
 
 #### 20. chorus: _my purpose left me_
 > somewhere I once felt  
