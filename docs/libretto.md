@@ -110,10 +110,10 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 > and for this sip of air  
 > to taste so sweet? 
 >
-> have I dwelt in a dark place submerged
-> to resurface again with a surge
-> and the pain in my heart
-> at last dispersed?
+> have I dwelt in a dark place submerged  
+> to resurface again with a surge  
+> and the pain in my heart  
+> at last dispersed?  
 >
 > and this time effaced  
 > and this face replaced  
