@@ -5,7 +5,7 @@
 4. Open site in local server (address is in Terminal - leave Terminal running)
 5. Preview these edits by refreshing local server (updated since last save)
 6. When edits are made, commit in Github Desktop
-7. View libretto site at katarinarankovic.github.io/aria
+7. View libretto site at [katarinarankovic.github.io/aria](https://katarinarankovic.github.io/aria/)
 
 **Tip: If your local site doesn’t update immediately**
 Sometimes MkDocs doesn’t auto-reload the browser tab. Two easy fixes:
