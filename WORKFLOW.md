@@ -28,6 +28,9 @@ CAPITALS = character
 
 ## media embeddings
 
+**Bandcamp track embedding**
+- Simply copy the embed link provided by Bandcamp for the track
+
 **Vertical video embed template**
 
 ```

@@ -127,6 +127,7 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3845835984/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/the-taste-of-air">The Taste of Air by Katarina Ranković</a></iframe>
+<!--update audio for new verse-->
 
 _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts itself in preparation for the next song. In the intervening silence, throats are cleared, pages are turned, a SINGER gets up from their chair, drawing it forward with an audible screech. Another SINGER unconsciously and minimally helps AVATAR onto it._
 
@@ -208,7 +209,9 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 > I am neither here nor there  
 > close but also everywhere  
 
-AUDIO  
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3092590110/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/filter-through-a-womans-hair">Filter Through a Woman&#39;s Hair by Katarina Ranković</a></iframe>  
+<!-- decide if you also want to include version 1 of this song-->
 
 <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
@@ -229,8 +232,8 @@ AUDIO
 > it washes up emotion  
 > each time I come along  
 
-AUDIO
-
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=27862474/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/spacetime">Spacetime by Katarina Ranković</a></iframe>
 #### 8. chorus: _my blood_
 > I am made  
 > of the stuff of earthquakes  
@@ -247,7 +250,8 @@ AUDIO
 > And those who snooze, for them I choose  
 > It's just too irresistible!  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2160196567/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-blood">My Blood by Katarina Ranković</a></iframe>
 ### act two: *retrace*
 _Almost slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._
 
