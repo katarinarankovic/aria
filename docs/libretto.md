@@ -237,18 +237,18 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 #### 8. chorus: _my blood_
 > I am made  
 > of the stuff of earthquakes  
-> And the blood of hurricanes  
-> Earth and air I shift and shake  
-> When I move across the stage  
+> and the blood of hurricanes  
+> earth and air I shift and shake  
+> when I move across the stage  
 >
-> Oh I quiver!
-> And I shiver!  
+> oh I quiver!
+> and I shiver!  
 > I’m sheer life-giver!  
 >
-> And those who are unmoved I move  
-> Their will becomes in turn my will  
-> And those who snooze, for them I choose  
-> It's just too irresistible!  
+> and those who are unmoved I move  
+> their will becomes in turn my will  
+> and those who snooze, for them I choose  
+> it's just too irresistible!  
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2160196567/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-blood">My Blood by Katarina Ranković</a></iframe>
