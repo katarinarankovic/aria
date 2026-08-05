@@ -517,25 +517,27 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 > drifting feelings  
 > expensive ceilings (x 2)  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1403671048/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-purpose-left-me">My Purpose Left Me by Katarina Ranković</a></iframe>
 
 #### 21. chorus: _trauma of past obliterations_
-> (lyrics)  
+>LYRICS TBC 
 
-AUDIO
+AUDIO TBC
 
 #### 22. chorus: _deathly curtain_
-> down descends the deathly curtain  
-> as if the sky is closing in  
-> his only rule is to be certain  
-> and execute a higher will  
->
 > down descends the deathly curtain  
 > it shimmers like a guillotine  
 > and no one there to alert them  
 > and no one there to intervene  
+> 
+> down descends the deathly curtain  
+> as if the sky is closing in  
+> his only rule is to be certain  
+> and execute a higher will  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1955068978/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/deathly-curtain">Deathly Curtain by Katarina Ranković</a></iframe>
 
 _CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving AVATAR lying on centre stage, as the curtain closes in on her slowly. The CHOIR continues singing backstage, so it sounds like the song is coming from further away. This song can be read as a final, weak gesture of defiance as aria expects the curtain to end the performance._
 
@@ -543,9 +545,9 @@ _CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving A
 
 #### 23. chorus: _prayer_
 
-> lyrics
+> LYRICS TBC
 
-AUDIO
+AUDIO TBC
 
 #### 24. chorus: _lift me up_
 
@@ -561,8 +563,8 @@ _From offstage, CHOIR sings:_
 > to comprise  
 > all these sighs  
 
-AUDIO  
-AUDIO (variation on 'rise)
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1887766999/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/lift-me-up">Lift Me Up by Katarina Ranković</a></iframe>
 
 #### 25. chorus: _the tale I tell myself_
 
@@ -585,11 +587,22 @@ AUDIO (variation on 'rise)
 > le-le-le-let  
 > it make  
 > let it make you whole  
->
-> (we can seek comfort in legacies  
-> and like ocean seas hope they carry thee)  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1544345671/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/the-tale-i-tell-myself">The Tale I Tell Myself by Katarina Ranković</a></iframe>
+
+> all my freedom borrowed  
+> from unseen origin!
+> then let my pieces scatter,  
+> scatter into the wind!  
+> 
+> and mind they are returned 
+> take care they are returned  
+> take care they are returned  
+> take care they are returned  
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2876736569/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/let-my-pieces-scatter">Let My Pieces Scatter by Katarina Ranković</a></iframe>
 
 #### 26. chorus: _curtain_
 
