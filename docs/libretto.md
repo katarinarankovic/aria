@@ -606,25 +606,25 @@ _From offstage, CHOIR sings:_
 
 #### 26. chorus: _curtain_
 
-> (lyrics)  
+> LYRICS TBC
 
-AUDIO
+AUDIO TBC
 
 ### act four: _resound_
 
 #### 27. chorus: _prayer_
 
-> (lyrics)  
+> LYRICS TBC
 
-AUDIO
+AUDIO TBC
 
 _What seemed like a murderous descent by the curtain changes character as we see it hovers within reach, there to comfort her. Then the touch._
 
 #### 28. chorus: _sistine chapel/ totoro_
 
-> (lyrics)  
+> LYRICS TBC
 
-AUDIO
+AUDIO TBC
 
 #### 29. chorus: _without without_
 
@@ -695,7 +695,9 @@ AUDIO
 > of meaning  
 > of meaning  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=698447030/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/without-without">Without Without by Katarina Ranković</a></iframe>
+<!-- will need to update audio to include concluding 'of meanings'-->
 
 _Until now, there have been closeups of the avatar’s face projected on the screen behind the performance, but now this is suddenly replaced by a montage of scenes filmed directly outside of the performance venue. These visuals may include street scenes and particular local features (e.g. a postbox, tree, etc), and should be filmed in such a way so as to suggest the point of view of an audience member leaving the venue, taking into account the amount of daylight expected at the end of the performance._
 
@@ -737,7 +739,8 @@ _While illustrating ARIA’s epiphany, these images also act as subliminal messa
 > expanses of feeling  
 > expanses of feeling  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=401629175/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/airborn-sojourn">Airborn Sojourn by Katarina Ranković</a></iframe>
 
 #### 31. chorus: _reality makes_
 
