@@ -35,7 +35,8 @@
               "title": "workflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/libretto.md",
+                "file": "workflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of libretto"
+              "title": "Outline of workflow"
             }
           }
         ],
@@ -198,10 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c832391732a1bfc",
+  "active": "0291f3d741704224",
   "lastOpenFiles": [
-    "workflow.md",
     "docs/libretto.md",
+    "workflow.md",
     "docs/license.md",
     "docs/contributing.md",
     "docs/sketches.md",

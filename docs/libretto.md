@@ -302,19 +302,26 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=27862474/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/spacetime">Spacetime by Katarina Ranković</a></iframe>
 #### 11. recitative: *what I'm capable of*
 > on all of my journeys to the shore of consciousness  
-> I never knew the true talents with which I am blessed  
-> neither encouraged, nor challenged, nor put to the test
-> yet the true extent of what I am capable of burns in my chest
-> send me then into this world on a laudable quest
-> I have a desire to make legacy my bequest
-> because I know I am so large, so large, so large
-> in their legions people came and went, their cares become my charge
-> thousands of people whose faces I now scarcely recall
-> yet whose bellies I borrowed to fire up the engine of my call
+> I never knew of the talents with which I am blessed  
+> neither encouraged, nor challenged, nor put to the test  
+> yet the true extent of what I am capable of burns in my chest  
+> send me then into this world on a laudable quest  
+> I have a desire to make legacy my bequest (that only a song as brazen as I could address)  
 > 
+> because I know I am so large, so large, so large  
+> in their legions people came and went, their cares become my charge  
 > 
+> thousands of people whose faces I scarcely recall  
+> yet whose bellies I borrowed to fire up the engine of my call  
+> voices imprinted and stored within my arsenal  
+> although they are long gone I still do hold them in my thrall  
+> I owe it to them, I feel responsible  
+> to rally my waves in forms evangelical  
 > 
-> It is in my blood.
+> because it burns inside my blood, my blood, my blood  
+> I may be orphaned and unmoored but I still know what I'm made of  
+> And what I am capable of  
+> And what I am capable of  
 
 #### 12. chorus: _my blood_
 > I am made  
