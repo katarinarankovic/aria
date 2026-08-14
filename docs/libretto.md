@@ -81,12 +81,13 @@ _The CHOIR is getting ready. They are chatting casually to each other, creating 
 
 _On the stage, some SINGERS are flipping through the pages of the score, checking that the pages are in order. Some are stretching, others are sipping coffee. Some are doing quiet vocal and breathing exercises. Some are chatting to each other about the week they’ve had so far. Some are pointing at the AUDIENCE and talking to each other about the performance that is about to take place. In turn, the AUDIENCE is waiting, murmuring and pointing back at the performers. This murmurous sound of tuning and waiting usually precedes an overture, but in this case it becomes the overture._
 
-#### 1. overture: _waiting_
+#### overture: _waiting_
 _The house lights are still on. The SINGERS continue talking, preparing and lounging as the MUSICIANS begin to play a section that takes as its very theme the ‘preparatory’ sounds that the CHOIR and the AUDIENCE are making. The composition may comprise sounds including but not limited to coughs, paper shuffles, sneezes, laughs, vocal exercises, instrument tuning and murmuring. It is designed to blend from non-performance to performance as seamlessly as possible._
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2078589050/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/waiting">Waiting by Katarina Ranković</a></iframe>
-#### 2. chorus: _gasp_
+
+#### 1. air: _gasp_
 _Dramatic lighting suddenly comes on as AVATAR shoots out from Upstage Right and darts diagonally across the stage, through the CHOIR. A trill of gasps erupt in succession from the SINGERS she runs past, and a couple of disturbed sheets of score fly in the air where she just was._ 
 
 _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile._
@@ -102,7 +103,7 @@ _The breath-singing continues as AVATAR staggers across the front of the stage, 
 
 _Music bleeds into the breath-singing, leading into the first aria. The breath-singing should sound like the watery whispers of tumultuous waves. The lyrical singing and melodic overtones should sound like a boat holding itself together atop these waves._
 
-#### 3. chorus: _the taste of air_
+#### 2. chorus: _the taste of air_
 _AVATAR grows increasingly bold and flings herself this way and that downstage, pendulum-like, occasionally tripping. Some SINGERS sing the following words while the rest continue the breath-singing underneath._
 
 > have I held my breath for an age  
@@ -131,24 +132,32 @@ _AVATAR grows increasingly bold and flings herself this way and that downstage, 
 
 _AVATAR steadies herself, heaving breathlessly. The CHOIR momentarily adjusts itself in preparation for the next song. In the intervening silence, throats are cleared, pages are turned, a SINGER gets up from their chair, drawing it forward with an audible screech. Another SINGER unconsciously and minimally helps AVATAR onto it._
 
-#### 4. chorus: _the land of the living word_
-_The CHOIR performs a choreographic sequence with this song (see video, below). As the song progresses, AVATAR steadily regains her strength, and strides out Downstage Centre to synchronise with the choreography._
+#### 3. recitative: _breathless and charmed_
+ _Only the CLUSTER closest to AVATAR, softly:_  
 
-> _only the CLUSTER closest to AVATAR, softly:_  
->
 > breathless and charmed  
 > don't be alarmed  
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=250032268/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/breathless-and-charmed">Breathless and Charmed by Katarina Ranković</a></iframe>
 
-> _AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_  
->
+#### 4. chorus: _the land of the living word_
+_The CHOIR performs a choreographic sequence with this song (see video, below). As the song progresses, AVATAR steadily regains her strength, and strides out Downstage Centre to synchronise with the choreography. AVATAR’s influence on the CHOIR radiates outward until they all join in, stronger:_
+
 > with song rites observed  
 > I pass undeterred  
 > upon my return  
 > to the land of the living  
 > the land of the living word  
+>   
+> sustain me  
+> contain me  
+> in the land of the living  
+> the land of the living word  
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=4128946929/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
+
 
 <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
@@ -163,17 +172,9 @@ _The CHOIR performs a choreographic sequence with this song (see video, below). 
   </div>
 </div>
 
-> sustain me  
-> contain me  
-> in the land of the living  
-> the land of the living word  
-
-<!-- audio -->
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1977240308/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/sustain-me">Sustain Me by Katarina Ranković</a></iframe>
-
+#### 5. chorus: _from page to eye_
 _AVATAR slowly turns around to face the choir as if about to lead a religious ceremony. She raises her arms. Although they don’t heed her directly, at that moment the CHOIR members adjust to her command and lift their hands gently in front of them, palms up. Their hands signify the score. AVATAR gently drops her arms._
 
-#### 5. chorus: _from page to eye_
 _As the music leads in, AVATAR advances to one of the SINGERs nearest to her and stands behind them with a hand on their shoulder. She examines the SINGER’S hands (the ‘score’) over their shoulder and nods approvingly. Squeezing the shoulders of the SINGER, AVATAR moves on through the crowd, touching their shoulders as if to 'switch them on', but also as if to support and steady herself on her passage through their midsts. The song might first be sung in staggered verses, but eventually coalesces into synchronised singing._
 
 _Each SINGER, upon being touched, joins in the chorus (with accompanying choreography: see video)._
@@ -182,6 +183,10 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
 > from mouth to sky  
 > embrace me now  
 > and call me “I”  
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=3227457075/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
+
 
 <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
@@ -196,14 +201,39 @@ _Each SINGER, upon being touched, joins in the chorus (with accompanying choreog
   </div>
 </div>
 
+<!-- trim video? -->
+
 _Once she has ‘switched on’ all the singers, AVATAR emerges Downstage Centre and mutely performs the gestures in unison with CHOIR. She gathers in strength—daring, once again, to hope._
 
 _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconsciously helps her down, scarcely noticing the action. CHOIR sighs deeply, as if in relief._
 
-#### 6. chorus: _filter through a woman’s hair_
+_CHOIR begins to break its formation. A SINGER in their midst approaches another SINGER, and reaches out to touch her hair curiously, as though they have noticed something in it. As SINGER speaks, they are echoed by a smattering of voices in their half of the choir. As the second SINGER responds, the echo is repeated in her half of the choir like twinkling reflections._
 
-> _Begins as a SOLO aria, and then radiates outwardly until the entire CHOIR joins in. The CHOIR and AVATAR appear to be following with their eyes, the movement of Aria throughout the space of the auditorium. Some of them have an outstretched hand that dips and soars like a wandering bird as they sing._  
->
+#### 6. recitative: *my misplaced body*
+> *SINGER 1*  
+> still coming to myself  
+> after who knows how long now  
+> never knowing if I would  
+> awake  
+> 
+> *SINGER 2*  
+> advancing somewhat gingerly  
+> taking all the time I need  
+> has anyone seen  
+> my misplaced body? 
+> 
+> *DUET*  
+> has anyone seen  
+> my misplaced body?  
+>   
+> oh!
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=879170714/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
+
+#### 7. chorus: _filter through a woman’s hair_
+_The CHOIR and AVATAR appear to be following with their eyes, the movement of Aria throughout the space of the auditorium. Some of them have an outstretched hand that dips and soars like a wandering bird as they sing._
+
 > filter through a woman’s hair  
 > spiral underneath the chairs  
 > I am neither here nor there  
@@ -211,7 +241,6 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3092590110/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/filter-through-a-womans-hair">Filter Through a Woman&#39;s Hair by Katarina Ranković</a></iframe>  
-<!-- decide if you also want to include version 1 of this song-->
 
 <div style="max-width: 240px; margin: 0;">
   <div style="position: relative; width: 100%; padding-top: 177.78%;">
@@ -226,7 +255,44 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
   </div>
 </div>
 
-#### 7. aria: _spacetime_
+#### 8. chorus: *disturbance's daughter*
+> yes, you wonder where to look  
+> in the crowd or in a nook  
+> dozens open up their mouths  
+> as if to summon a great cloud  
+> 
+> if my sweeping dance could trace  
+> lines in this cavernous space  
+> like unfurling ink in water  
+> you'd see Disturbance's daughter
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1275112382/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
+
+#### 9. recitative: *the water's pulse*
+_The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", then slowly rise as they complete the stanza. Sung a cappella, ARIA can be sensed all around as she emanates in ripples about the performance space._
+
+> shhhhhhhhhhhh  *(pause)*   
+> hear!  *(pause)*   
+> the stillness of the air  
+> static and abuzz  
+> waiting for a nudge  *(x2)*   
+> 
+> the water's  *(pause)*   
+> clear  *(pause)*   
+> throw a pebble in  
+> how it does convulse  
+> now it has a pulse  
+> now it has a pulse  
+> now it has a pulse  
+> now it has a pulse
+
+*The last line of the becomes a rhythmic pulse that transitions into the next song.*
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=4165544699/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
+
+#### 10. chorus: _spacetime_
 > spacetime is like an ocean  
 > the wave of which is song  
 > it washes up emotion  
@@ -234,7 +300,23 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=27862474/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/spacetime">Spacetime by Katarina Ranković</a></iframe>
-#### 8. chorus: _my blood_
+#### 11. recitative: *what I'm capable of*
+> on all of my journeys to the shore of consciousness  
+> I never knew the true talents with which I am blessed  
+> neither encouraged, nor challenged, nor put to the test
+> yet the true extent of what I am capable of burns in my chest
+> send me then into this world on a laudable quest
+> I have a desire to make legacy my bequest
+> because I know I am so large, so large, so large
+> in their legions people came and went, their cares become my charge
+> thousands of people whose faces I now scarcely recall
+> yet whose bellies I borrowed to fire up the engine of my call
+> 
+> 
+> 
+> It is in my blood.
+
+#### 12. chorus: _my blood_
 > I am made  
 > of the stuff of earthquakes  
 > and the blood of hurricanes  
@@ -246,18 +328,19 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 > I’m sheer life-giver!  
 >
 > and those who are unmoved I move  
-> their will becomes in turn my will  
+> their will in turn becomes my will  
 > and those who snooze, for them I choose  
 > it's just too irresistible!  
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2160196567/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-blood">My Blood by Katarina Ranković</a></iframe>
+
 ### act two: *retrace*
 _Almost slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._
 
 _(VIGNETTES begins—This is a placeholder for further stage directions describing a part of the opera in which Aria cycles through a series of reminiscences in the form of vignettes exploring her past incarnations.)_
 
-#### 9. aria: _he found me haunting_
+#### 11. aria: _he found me haunting_
 > sometimes I find myself outside  
 > where usual rules do not apply  
 > thus left alone, my time I bide  
@@ -321,6 +404,7 @@ _AVATAR embraces SINGER back, but as she does so, SINGER's arms gently drop back
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1667488698/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/no-illusions">No Illusions by Katarina Ranković</a></iframe>
+
 #### 11. aria: _aria's chances_
 _AVATAR takes the hand of a SINGER and leads them over Downstage Right. She then takes the hand of a MUSICIAN holding their instrument, and brings them to join the SINGER. Upon seeing each other, the SINGER and MUSICIAN smile and acknowledge each other, still scarcely paying heed to AVATAR. SINGER and MUSICIAN will perform the next aria as a duet, regarding at times each other, at times regarding the audience, treating their performance as a pleasant recital, rather than the living expression of ARIA._
 
@@ -443,6 +527,7 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1938020169/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/no-book-burning">No Book Burning by Katarina Ranković</a></iframe>
+<!-- this number sounds good when layered in a staggered way -->
 
 #### 17. aria: _reason lacks the rhyme_
 > every time I awake  
@@ -592,11 +677,11 @@ _From offstage, CHOIR sings:_
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1544345671/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/the-tale-i-tell-myself">The Tale I Tell Myself by Katarina Ranković</a></iframe>
 
 > all my freedom borrowed  
-> from unseen origin!
+> from unseen origin!  
 > then let my pieces scatter,  
 > scatter into the wind!  
 > 
-> and mind they are returned 
+> and mind they are returned  
 > take care they are returned  
 > take care they are returned  
 > take care they are returned  
@@ -760,7 +845,8 @@ _While illustrating ARIA’s epiphany, these images also act as subliminal messa
 > reality makes  
 > comparatively no sense  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1949970244/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/reality-makes">Reality Makes by Katarina Ranković</a></iframe>
 
 #### 32. chorus: _alchemy_
 
@@ -772,19 +858,20 @@ AUDIO
 > we quicken in the past  
 > and make of it an alchemy  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=4034615582/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/alchemy">Alchemy by Katarina Ranković</a></iframe>
 
 #### 33. chorus: _curtain_
 
-> (lyrics)  
+> LYRICS TBC
 
-AUDIO
+AUDIO TBC
 
 #### 34. chorus: _prayer_
 
-> (lyrics)  
+> LYRICS TBC  
 
-AUDIO
+AUDIO TBC
 
 #### 35. chorus: _aria, where are ya?_
 
@@ -826,14 +913,16 @@ AUDIO
 >
 > mind the gap, mind the gap…  
 
-AUDIO
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=307752619/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/aria-where-are-ya">Aria, Where Are Ya? by Katarina Ranković</a></iframe>
 
 #### 36. chorus: _prayer for curtain_
 
-> lyrics  
+> LYRICS TBC  
 
+AUDIO TBC
 
-THE END!
+**THE END**
 
 
 ### songs in progress
@@ -861,13 +950,6 @@ AUDIO
 > felicitations  
 > for appellations  
 > that call creation  
-
-AUDIO
-
-#### chorus: _reality_
-
-> reality makes  
-> comparatively no sense  
 
 AUDIO
 
@@ -1110,11 +1192,12 @@ AUDIO
 
 AUDIO
 
-#### piano: _and over_
+#### piano: ==_and over_==
 
 > and over and over again  
 > I’m met with thoughts of the end  
 
+(Act 2)
 AUDIO
 
 #### piano: _procession of promise_
@@ -1156,43 +1239,6 @@ AUDIO
 
 AUDIO
 
-#### number: _a tale I tell myself_
-
-> there’s a tale I tell myself  
-> when I lay my head to rest  
-> when the floor is cold  
-> and there’s a tremor in the walls  
-> I say  
-> I say  
->
-> through you my friends will I find a resting place  
-> each may take a word and ingest it on this day  
-> swallow up a piece of air  
-> lodge it into your soul  
->
-> choose a spot that’s tender  
-> and let it make you whole  
-> le-le-le-let  
-> it make  
-> le-le-le-let  
-> it make  
-> let it make you whole  
-
-AUDIO
-
-#### number: _scatter all my pieces_
-
-> scatter all my pieces  
-> scatter into the wind  
-
-AUDIO
-
-#### number: _take care that they are returned_
-
-> take care that they are returned  
-
-AUDIO
-
 #### number: _effective_
 
 > I want to be effective  
@@ -1205,9 +1251,10 @@ AUDIO
 
 AUDIO
 
-## titles 
+I though I feel I must, I must, 
+combust
+It is a failure of 
+of trust
 
-- Aria and the Curtain
-- Quicken
-- To Quicken a …
-- Quickening
+Darkness reigns in a quatrain
+Never mind if I stay sane
