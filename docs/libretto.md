@@ -292,7 +292,17 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=4165544699/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
-#### 10. chorus: _spacetime_
+#### 10. chorus: *little life*
+*A standing wave appears in the movement of the choir, ticking back and forth to the beat*
+
+> what is this little life  
+> which quickens with a sigh?  
+> it wants to stay a while    
+> not knowing even why  
+
+
+
+#### 11. chorus: _spacetime_
 > spacetime is like an ocean  
 > the wave of which is song  
 > it washes up emotion  
@@ -300,7 +310,8 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=27862474/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/spacetime">Spacetime by Katarina Ranković</a></iframe>
-#### 11. recitative: *what I'm capable of*
+
+#### 12. recitative: *what I'm capable of*
 > on all of my journeys to the shore of consciousness  
 > I never knew of the talents with which I am blessed  
 > neither encouraged, nor challenged, nor put to the test  
@@ -323,7 +334,7 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 > And what I am capable of  
 > And what I am capable of  
 
-#### 12. chorus: _my blood_
+#### 13. chorus: _my blood_
 > I am made  
 > of the stuff of earthquakes  
 > and the blood of hurricanes  
