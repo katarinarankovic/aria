@@ -3,12 +3,12 @@
 ## performance elements
 
 ### aria
-Aria is an immaterial being that is conjured into existence whenever the choir sings her score. She comes alive as a result of all the other performance elements playing their parts. As a kind of ‘living pattern’, she is not collected into any singular location on the stage and cannot be identified with any one performer alone.
+Aria is an immaterial being that is conjured into existence whenever the choir sings her score. She is the Song who comes alive as a result of all the other performance elements playing their parts. As a kind of _living pattern_, Aria is not collected into any singular location on the stage and cannot be identified with any one performer alone.
 
 ### avatar
-The avatar is a special kind of performer designed to translate Aria’s moods and temperaments for the audience, like a sign language interpreter.
+The avatar is a special kind of performer designed to translate Aria’s moods and temperaments for the audience. 
 
-The avatar is mute: she does not speak or sing. She is expressive through her bodily movements, emotion and physical influence on the choir.
+Neither speaking nor singing, the avatar is mute yet gesticulative, like a sign language interpreter. She is expressive through her bodily movements, emotion and physical influence on the choir.
 
 As the choir performs, each singer is influenced by what the avatar is doing. The avatar has the power to conduct them with her proximity, movements and touch.
 
@@ -16,11 +16,11 @@ For example, as the avatar approaches a singer, their singing intensifies. As sh
 
 In the same way that a ghost may cause a living person to feel a chill but not substantially affect them, the influence that the avatar exerts over the choir is 'light-touch'. For example, if the avatar lifts the arm of a singer, hoping, perhaps, that it will stay there, the singer's arm will remain raised for a short time, but then gently fall back to its original position.
 
-The avatar is a visual aid intended to help the audience ‘see’ aria, but is not really aria herself. The avatar’s actions and movements on stage—how she appears to channel the choir's musical energy—are synchronised with the words of the libretto.
+The avatar is a visual aid intended to help the audience "see" Aria, but is not really Aria herself. The avatar’s actions and movements on stage—how she appears to channel the choir's musical energy—are synchronised with the words of the libretto.
 
-The avatar is dressed in a way that sets her apart from the choir; probably in white, probably in a simple dress that is not easily placed to any particular era; timeless.
+The avatar is dressed in a way that sets her apart from the choir, in a flowing garment that is not easily placed to any particular era; timeless.
 
-There is a large projection screened onto the back of the stage that shows an Ingmar Bergman-like closeup of avatar’s facial expressions throughout the performance (it can be a pre-recorded video). This is intended to heighten the avatar’s efficacy as an agent of emotional communication.
+There is a large projection screened onto the back of the stage that shows a closeup of avatar’s facial expressions throughout the performance (it can be pre-recorded). This is intended to heighten the avatar’s efficacy as an agent of emotional communication. Other features can be superimposed or folded in and out of this projected image, for example: text echoing key words from the libretto, as well as other metaphorical devices for visualising Aria, such as water-themed animation.
 
 ### choir
 The choir is composed of singers who play themselves.
@@ -29,10 +29,9 @@ The choir singers act in much the same way as they would at a rehearsal. They ar
 
 The choir is no more aware of the avatar moving amongst them than they would be of a draught, or gravity.
 
-This means they are not entirely _unaware_ of the avatar. Like gravity, the avatar enacts natural forces which they must obey. Yet, also like gravity, from their perspective this is scarcely worth noting; it is a natural law of the performance and the choir obeys her without much concern.
+This means they are not entirely _unaware_ of the avatar. Like gravity, the avatar enacts natural forces which they must obey. Yet, also like gravity, from the choir's perspective this is scarcely worth noting; it is a natural law of the performance and the singers obey her without much concern.
 
 Throughout the performance, the choir singers pay visible attention to each other, to the audience, and to the musicians. They may occasionally look at the avatar, or visibly regard her for a moment, but this is only in passing, and their knowledge of her presence does not emotionally stir the choir singers. Like a breeze, the avatar moves and fusses around them, influencing them, but without attracting much of their conscious attention.
-
 
 ### musicians
 The musicians are the facilitators of Aria's will. They are her attendants. They either follow her, or clear a path for her, with their music.
@@ -44,7 +43,6 @@ While at first appearing to be her antagonist, the Curtain turns out to play a f
 
 The Curtain will need to be operated (vertically) during the performance as well as at the end.
 
-
 ### murmur
 Murmur is the sound that is associated with pause. Wherever there would normally be silence in a musical performance (such as between numbers), there is instead murmur. It is a soft, gentle, sound created by the choir and/or musicians that underlies the whole performance. It should sound pleasant but neutral.
 
@@ -54,22 +52,29 @@ The role of murmur in this performance is similar to that of the ongoing, baseli
 Hum is the sound that is associated with stirring. It occurs wherever there is a buildup of excitement, concentration or harmonised activity among the choir. It is continuous and steady, but more musical than murmur, and buzzes like a swarm of wings. Hum signifies a kind of sonic attention.
 
 ### silence
-Silence is the sound that is associated with the Curtain. The only time true silence can be heard during the performance is when the Curtain is moving downwards. Silence signifies incomprehension. It is the sound of fear
+Silence is the sound that is associated with the Curtain. The only time true silence can be heard during the performance is when the Curtain is moving downwards. Silence signifies a kind of sonic blackout.
 
 ## story arc
-In **Act One (Revive)**, Aria gasps back into life, overwhelmed with the vibrancy of experience as if resurfacing from being almost drowned. The performance opens with ecstatic and energetic displays of the depth of Aria’s sensory experience and enormous capacity for feeling. The choir is her body, and her expressive orchestration of their humanity is a flamboyant display of her freedom.
+In **Act One (Revive)**, Aria gasps back into life, overwhelmed with the vibrancy of experience as if resurfacing from being almost drowned. The performance opens with ecstatic and energetic displays of the depth of Aria’s sensory experience and enormous capacity for feeling. The choir is her body, and her expressive orchestration of their humanity is a flamboyant display of her freedom. Aria senses that until now, she has not yet had a chance to truly test herself and is on the lookout for a quest, a mission, or a purpose, befitting a song as vast and sensitive as she.
 
-Yet although it is exhilarating to be alive, and although she is grateful to the choir that makes this possible, Aria is also aware that a fundamental, brutal democracy governs her chances of survival. As a living song, she relies on repetition to persist and survive over time. With this creeping recognition of the fragility of her existence, and the fundamental way in which the meaning of her life is wrapped up in mortal people and the tumultuous context that abounds beyond the theatre walls, Aria begins to dwell on her past incarnations. 
+Although it is exhilarating to be alive, and although in this moment she feels large and powerful, Aria is also aware that a fundamental, brutal democracy governs her chances of survival. As a living song, she relies on repetition to persist and survive over time. With this creeping recognition of the fragility of her existence, and the fundamental way in which the meaning of her life is wrapped up in mortal people and the tumultuous context that abounds beyond the theatre walls, Aria begins to develop anxiety about her continued existence. 
 
-This begins in **Act Two (Retrace)**, where we see Aria’s recollection of her inception, before her very first performance. Multiple versions of Aria once had to battle it out for sovereignty, and only one remained—the others will never be heard. She has been regenerating with each performance ever since. What is lost, what is gained, with each new generation of Aria? Here she has respawned, and for what? What is the meaning of this Sisyphean return to Aria? Then she remembers: the Curtain. The Curtain, hovering over her head like a guillotine, always catches her off-guard, waiting on the edge of the performance and ready to extinguish her at a moment’s notice. 
+This begins in **Act Two (Retrace)**, when Aria reminisces on her past incarnations: hummed from the lips of a patrolling police officer at night, recited dutifully by a class of school children, crooned happily in a shower, chanted zealously at a militant rally, and crooned softly from a husband to a wife on her deathbed. Having been conjured at this present performance now taking place, Aria realises she has been called once again, voted into existence by a common will. This means she still serves a need, but these conditions leave her always at the mercy of external forces and there is always the possibility that she will become redundant, censored, or altogether forgotten some day. Is there a way she can take her mortality into her own hands, extend her consciousness indefinitely and pave her own destiny? 
 
-In **Act Three (Resist)**, Aria enters a heightened state of anxiety about the encroaching Curtain that signifies her end. In a climactic premonitory song, the Curtain begins to lower and rise repeatedly over the performance. Each time it threatens to come down, Aria tries to stave it off with a desperate “prayer” by pushing the choir, the musicians and the avatar to the limits of their efforts. Part of the song involves the choir clapping (i.e. their clapping makes the Curtain rise, as though applause were to stave it off). Conversely, the only time there is complete silence in the performance is when the Curtain makes its way slowly down. Silence is a sound only the Curtain makes.
+Like Sheherazade (or Andrić's _Aska_), in **Act Three (Resist)** Aria asks by what artistry she might keep her performers and her audience captivated enough to continue holding space for her in their attention. She reasons that as much as she depends on the continued merciful participation of human performers and audience, she also looms large over them all and has the power to absorb and enfold them into the vast emotional flotsam already circulating in her waves. Aria summons the historical weight carried by her sonic patterns and entrusts her art with the task of maintaining her continued existence. She will serve and be served by the collective will in perpetuity.
 
-In **Act Four (Resound)**, Aria is thrown to the depths of despair. She mourns not only herself, but the human performers who she knows share her fate in their own way. A peculiar relationship develops between Aria and the Curtain via the avatar, culminating in a moment when they “touch” in a manner similar to God and Adam in the Michaelangelo’s Sistine Chapel fresco. The blade of the Curtain makes the avatar flinch, as if it has cut her finger. But within that same flash encounter, a vision of her ‘afterlife’ is transferred to Aria: she ‘sees’ what the Curtain sees when the performance ends. The avatar walks off the stage and into the audience, to look back at the performance. Aria begins to realise that she does not merely exist ‘on stage’, but off it too, in the minds of people, in the copies of the score, as echoes in the songs that came before her, in somebody humming her tune, in the unborn composers who will study her. (This will be visualised on the screen behind the performance, when the projection of the avatar’s face is replaced by a montage of scenes filmed directly outside of the performance venue, showing what the audience will see when they leave). Aria begins to place value on her ‘generations’: the performances that precede and succeed her. 
+As Aria prepares to embody an unforgettable magnum opus, the likes of which could hope to indefinitely postpone her ending, the murmur around her settles into eerie silence. The firm, blade-like Curtain above begins to slowly descend down upon her, stopping a quarter of the way down as she suddenly remembers who he is. It is he who follows her everywhere, hovering over her head like a guillotine, always catching her off-guard, waiting on the edge of the performance and ready to extinguish her at a moment’s notice. The Curtain begins again to slowly descend in silence.
 
-This epiphany concludes in a final, climactic “prayer” song. This song begins with the inkling that Aria may not only persist in her absence, but entirely depends on absence. It is in absence alone that she can “resonate”. She must recede for her effects to percolate in the hearts and minds of people. The song builds up over cycles of repetition, until the choir intensifies their song with the chanting of a single word or phrase (e.g. “and quicken, and quicken, and quicken!”). The song ends abruptly in silence and is promptly followed by the Curtain finally falling all the way down to the floor and Aria embracing her end.
+Aria enters a heightened state of anxiety about the encroaching Curtain that signifies her end. In a climactic premonitory song, the Curtain begins to lower and rise repeatedly over the performance. Each time it threatens to come down, Aria tries to stave it off with a desperate “prayer” by pushing the choir, the musicians and the avatar to the limits of their efforts. Part of the prayer involves the choir clapping (i.e. their clapping makes the Curtain rise, as though applause were to stave it off). Nonetheless, the Curtain keeps descending closer to the avatar, who crouches in terror beneath it as it approaches. The choir have faded backstage and Aria's resistance has grown weak.
+
+In **Act Four (Resound)**, Aria is thrown to the depths of despair. She mourns not only herself, but the human performers who she knows share her fate in their own way. A peculiar relationship develops between Aria and the Curtain via the avatar, culminating in a moment when they “touch” in a manner similar to God and Adam in the Michaelangelo’s Sistine Chapel fresco. The blade of the Curtain makes the avatar flinch, as if it has cut her finger. But within that same flash encounter, a vision of her "after-life" (or, rather "inter-life") is transferred to Aria: she "sees" what the Curtain sees when the performance ends. This means that the Curtain had not in fact descended to end the performance: he had come to comfort Aria by showing her the exterior forces that makes possible her interior world. 
+
+The avatar walks off the stage and into the audience, to look back at the performance. Aria begins to realise that she does not merely exist "on stage", but off it too: in the minds of people, in the copies of the score, as echoes in the songs that came before her, in somebody humming her tune, in the unborn composers who will study her. (The projection of the avatar’s face on the back wall is replaced by a montage of scenes filmed directly outside of the performance venue, showing what the audience will see when they leave). Aria begins to place value on her "generations": the performances that precede and succeed her. 
+
+This epiphany concludes in a final, climactic "prayer” for a good ending. This song begins with the inkling that Aria may not only persist in her absence, but entirely depends on absence. It is in absence alone that she can “resonate”. She must recede for her effects to percolate in the hearts and minds of people. The song builds up over cycles of repetition, until the choir intensifies their song with the chanting of a single word or phrase (e.g. “and quicken, and quicken, and quicken!”). The song ends abruptly in silence and is promptly followed by the Curtain finally falling all the way down to the floor and Aria embracing her end.
 
 The silence will linger momentarily, before soon becoming flooded with applause. The applause, reminiscent of the choir’s clapping in Act Three, will similarly force the Curtain back up again. The performers will take their bows, but Aria will be gone.
+
 Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhere in the air—even as the house lights come on, even as the audience collects their things, and the venue staff close up shop. We will know if Aria’s prayers have been answered in the small glimmers of her ever-rippling effects: in somebody humming her tune on the way home, in a young performer picking up a copy of the score to learn her song, in the wider ocean of tradition in which she resounds.
 
 ## libretto
@@ -326,7 +331,7 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=27862474/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/spacetime">Spacetime by Katarina Ranković</a></iframe>
 
 #### 12. recitative: *what I am capable of*
-*AVATAR walks out onto Centre Stage with determination. ARIA is beginning to feel her power as a song. With each line recited, the CHOIR takes one synchronised march forward. (Except lines beginning with "because": in this case, the CHOIR steps back a few times.)*
+_AVATAR walks out onto Centre Stage with determination. ARIA is beginning to feel her power as a song of ages. With each line recited, the CHOIR takes one synchronised march forwards, then backwards on the verses beginning with "because". AVATAR conducts occasional "splashes" in the ocean of the CHOIR as ARIA speaks._
 
 > on all of my journeys to the shore of consciousness  
 > I never knew of the talents with which I am blessed  
@@ -347,6 +352,7 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 > 
 > because it burns inside my blood, my blood, my blood  
 > I may be orphaned and unmoored but I still know what I'm made of  
+> 
 > and what I am capable of  
 > and what I am capable of  
 
@@ -355,7 +361,7 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=4072655832/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
 #### 13. chorus: _my blood_
-*The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off her might.*
+_The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off her might. The auditorium is thundering with the pangs of containing her ARIA's life force._
 
 > I am made  
 > of the stuff of earthquakes  
@@ -376,9 +382,28 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2160196567/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-blood">My Blood by Katarina Ranković</a></iframe>
 
 ### act two: *retrace*
-_Almost slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._
 
-_(VIGNETTES begins—This is a placeholder for further stage directions describing a part of the opera in which Aria cycles through a series of reminiscences in the form of vignettes exploring her past incarnations.)_
+ hummed from the lips of a patrolling police officer at night, droned monotonously by a class of bored school children, crooned happily in a shower, chanted zealously at a militant rally, lulled sonorously from a husband to a wife on her deathbed.
+
+I am moved by the ages
+turning under me like a rolling belt
+the present is lonely
+echoed in the past is how Song is felt
+
+I flash in and out of time
+thundering or whispering my own name
+
+
+#### 15. chorus: *lonely present*
+
+When I look back and see
+Just how far I've come
+I see my fate swinging
+like a pendulum
+
+
+
+
 
 #### 11. aria: _he found me haunting_
 > sometimes I find myself outside  
@@ -420,6 +445,16 @@ _(VIGNETTES begins—This is a placeholder for further stage directions describi
 </div>
 
 _(VIGNETTES ends)_
+
+_Almost slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._
+
+#### 14. chorus: _ripples_
+
+_MUSICIAN lets AVATAR stand by their instrument, gives her a look as if to cue her, and then begins a variation on the overture theme. He gestures with his playing, as if he is paving a path for AVATAR with his music. AVATAR takes a breath as he starts, and walks back into the throng. The CHOIR is humming, remaining in its clusters but attentive to the resumption of music. Wandering through the clusters, AVATAR sets off small ripples of harmonic vocalisations, which can be imagined as the ripples of a rock skipping through water._
+
+_After a while, OTHER AVATARS, identically dressed to AVATAR, emerge onto stage, taking random routes through the choir. The OTHER AVATARS collectively set off a growing cacophony of choral interference patterns among the choir. This part could potentially be improvised._
+
+_The sounds have grown chaotic, as the AVATARS trace rapid routes through the choir clusters. Two AVATARS suddenly run into each other on centre stage, and the clusters nearest to them fall back to a hum. The two AVATARS, surprised to see each other, stop and examine one another, as one might a doppelganger. They reach out to inspect each other's hair and clothes. As they perform this mirroring action, the other AVATARS grow tired from their circling and fall away, one by one. Finally, one of the two AVATARS, who are by now holding each other by one hand, also slips away, slowly letting go of the hand of our original AVATAR._
 
 #### 10. recitative: _no illusions_
 _AVATAR pauses thoughtfully, turning somewhat grave. She approaches one section of CHOIR and the nearby SINGERS say, sonorously, in AVATAR's wake:_
@@ -473,13 +508,6 @@ _CHOIR relaxes again, forming clusters among themselves and resuming rehearsal s
 
 _MUSICIAN emerges from their position to give a directive note to a small group. When the group looks satisfied, the musician looks about themselves as if they’ve lost something. They look under their bag and in their pockets, but can't seem to find it. The musicians ask somebody, but they shake their head. Then the musician appears to notice something by the edge of the stage, behind the curtain. They walk briskly over to it, take it by the hand, and drag it behind them across the stage. It is AVATAR. As the two of them filter through the choir, another trill of voices sets off in AVATAR's wake._
 
-#### 12. chorus: _ripples_
-
-_MUSICIAN lets AVATAR stand by their instrument, gives her a look as if to cue her, and then begins a variation on the overture theme. He gestures with his playing, as if he is paving a path for AVATAR with his music. AVATAR takes a breath as he starts, and walks back into the throng. The CHOIR is humming, remaining in its clusters but attentive to the resumption of music. Wandering through the clusters, AVATAR sets off small ripples of harmonic vocalisations, which can be imagined as the ripples of a rock skipping through water._
-
-_After a while, OTHER AVATARS, identically dressed to AVATAR, emerge onto stage, taking random routes through the choir. The OTHER AVATARS collectively set off a growing cacophony of choral interference patterns among the choir. This part could potentially be improvised._
-
-_The sounds have grown chaotic, as the AVATARS trace rapid routes through the choir clusters. Two AVATARS suddenly run into each other on centre stage, and the clusters nearest to them fall back to a hum. The two AVATARS, surprised to see each other, stop and examine one another, as one might a doppelganger. They reach out to inspect each other's hair and clothes. As they perform this mirroring action, the other AVATARS grow tired from their circling and fall away, one by one. Finally, one of the two AVATARS, who are by now holding each other by one hand, also slips away, slowly letting go of the hand of our original AVATAR._
 
 #### 13. chorus: _variations_
 > from the trickle of a stream  
@@ -605,6 +633,14 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1246930601/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/evaporated">Evaporated by Katarina Ranković</a></iframe>
 
+#### piano: ==_and over_==
+
+> and over and over again  
+> I’m met with thoughts of the end  
+
+(Act 2)
+AUDIO
+
 #### 20. chorus: _my purpose left me_
 > somewhere I once felt  
 > somewhere I once sang  
@@ -644,12 +680,21 @@ _(From here on I focus on writing songs for now, but will come back to writing s
 
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1403671048/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-purpose-left-me">My Purpose Left Me by Katarina Ranković</a></iframe>
+#### chorus: _origami_
 
+> I’ve watched this world unfold a million times before  
+> like origami fractals scatter ‘cross the floor  
+>
+> all this physics  
+> I will miss it  
+> all this physics  
+> I will miss it 
 #### 21. chorus: _trauma of past obliterations_
 >LYRICS TBC 
 
 AUDIO TBC
 
+"vouchsafe my return"
 #### 22. chorus: _deathly curtain_
 > down descends the deathly curtain  
 > it shimmers like a guillotine  
@@ -961,6 +1006,8 @@ AUDIO TBC
 
 > LYRICS TBC  
 
+(Could make this sound like 'from page to eye', but the reverse: send the song into the world)
+
 AUDIO TBC
 
 **THE END**
@@ -1169,21 +1216,6 @@ AUDIO
 > if you see then you believe  
 > it’s not always what it seems  
 
-AUDIO
-
-#### chorus: _origami_
-
-> I’ve watched this world unfold a million times before  
-> like origami fractals scatter ‘cross the floor  
->
-> all this physics  
-> I will miss it  
-> all this physics  
-> I will miss it  
-
-AUDIO  
-AUDIO
-
 #### aria: _swell_
 
 > there is something in the distance  
@@ -1233,13 +1265,7 @@ AUDIO
 
 AUDIO
 
-#### piano: ==_and over_==
 
-> and over and over again  
-> I’m met with thoughts of the end  
-
-(Act 2)
-AUDIO
 
 #### piano: _procession of promise_
 
@@ -1259,11 +1285,6 @@ AUDIO
 
 #### number: _not an accident_
 
-> The tale as I tell it to myself  
-> To myself  
->
-> (x2)  
->
 > I could wage a war with ancestors  
 > Make them all my dancers  
 > And bid them all goodbye forever  
