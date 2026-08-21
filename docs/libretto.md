@@ -94,7 +94,7 @@ _The house lights are still on. The SINGERS continue talking, preparing and loun
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2078589050/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/waiting">Waiting by Katarina Ranković</a></iframe>
 
-#### Scene 1: Aria Reawakens
+#### Scene 1: *Aria Reawakens*
 _Dramatic lighting suddenly comes on as AVATAR shoots out from Upstage Right and darts diagonally across the stage, through the CHOIR. A trill of gasps erupt in succession from the SINGERS she runs past, and a couple of disturbed sheets of score fly in the air where she just was._ 
 
 _AVATAR drops to her knees Downstage Left, clasping at her throat. She looks pained but also a little relieved, almost on the verge of a smile._
@@ -293,7 +293,7 @@ _The CHOIR and AVATAR appear to be following with their eyes, the movement of Ar
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1275112382/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
-#### Scene 4: Aria Manipulates the Air
+#### Scene 4: *Aria Manipulates the Air*
 ##### recitative: *the water's pulse*
 _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", then slowly rise as they complete the stanza. Sung a cappella, ARIA can be sensed all around as she emanates in ripples about the performance space. The last line of the becomes a rhythmic pulse that transitions into the next song. AVATAR motions to "throw the pebble" into the AUDIENCE while observing the sonic ripples it seems to make._
 
@@ -337,7 +337,7 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1651961616/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
-#### Scene 5: Aria Summons Her Powers
+#### Scene 5: *Aria Summons Her Powers*
 ##### chorus: _spacetime_
 *The formation of the CHOIR and its rhythmic movements become more complex than the standing wave. Facing the audience and rowing back and forth in asynchronous rows, the CHOIR now ebbs and flows like the lapping waves on the surface of an ocean. A HUM rises among them as AVATAR walks in the CHOIR's midst, conducting it.*
 
@@ -402,11 +402,11 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 
 ### Act II: *Retrace*
 
-#### Scene 1: Aria Considers Her Next Quest
+#### Scene 1: *Aria Considers Her Next Quest*
 
 they have not always been noble.
 
-#### Scene 2: Aria Revisits Her Past Incarnations
+#### Scene 2: *Aria Revisits Her Past Incarnations*
 
 When I look back and see
 Just how far I've come
@@ -469,12 +469,12 @@ thundering or whispering my own name
 
 ##### lullaby for Lena
 
-#### Scene 3: Aria is Summoned for a Present Need
+#### Scene 3: *Aria is Summoned for a Present Need*
 
 Having been conjured at this present performance now taking place, Aria realises she has been called once again, voted into existence by a common will. This means she still serves a need. 
 
 
-#### Scene 4: Aria Recognises her Dependency on the People
+#### Scene 4: *Aria Recognises her Dependency on the People*
 These conditions leave her always at the mercy of external forces and there is always the possibility that she will become redundant, censored, or altogether forgotten some day. Aria is  aware that a fundamental, brutal democracy governs her chances of survival. As a living song, she relies on repetition to persist and survive over time. With this creeping recognition of the fragility of her existence, and the fundamental way in which the meaning of her life is wrapped up in mortal people and the tumultuous context that abounds beyond the theatre walls, Aria begins to develop anxiety about her continued existence. 
 
 ##### recitative: _no illusions_
@@ -550,7 +550,7 @@ _AVATAR kneels. The CHOIR marches 4 or 5 steps forward, washing over her until s
 > I’m met with thoughts of the end  
 
 
-#### Scene 5: Aria Ponders on What Is Different and What Is Same
+#### Scene 5: *Aria Ponders on What Is Different and What Is Same*
 
 _CHOIR relaxes again, forming clusters among themselves and resuming rehearsal small talk. AVATAR is nowhere to be seen. Some retrieve pencils and cross out or add notes to their scores, some ask each other questions and yet others calibrate their voices._
 
@@ -593,7 +593,7 @@ _The sounds have grown chaotic, as the AVATARS trace rapid routes through the ch
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=913897391/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/reason-lacks-the-rhyme">Reason Lacks the Rhyme by Katarina Ranković</a></iframe>
 
-#### Scene 6: Aria Decides to Take Her Life into Her Own Hands
+#### Scene 6: *Aria Decides to Take Her Life into Her Own Hands*
 Is there a way she can take her mortality into her own hands, extend her consciousness indefinitely and pave her own destiny? 
 
 
@@ -659,7 +659,7 @@ Is there a way she can take her mortality into her own hands, extend her conscio
 
 ### Act III: resist
 
-#### Scene 1: Aria Attempts to Earn Her Stay with Captivation (Scheherazade)
+#### Scene 1: *Aria Attempts to Earn Her Stay with Captivation* (Scheherazade)
 
 
 
@@ -672,7 +672,7 @@ Scheherazade is herself a song
 on the horizon awaits malady
 You won't keep it at bay for long
 
-#### Scene 2: Aria is Visited by the Curtain
+#### Scene 2: *Aria is Visited by the Curtain*
 
 
 ##### aria: _swell_
@@ -696,7 +696,7 @@ You won't keep it at bay for long
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1955068978/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/deathly-curtain">Deathly Curtain by Katarina Ranković</a></iframe>
 
 _CHOIR is receding backstage, their song/hum/murmur recedes with them, leaving AVATAR lying on centre stage, as the curtain closes in on her slowly. The CHOIR continues singing backstage, so it sounds like the song is coming from further away. This song can be read as a final, weak gesture of defiance as aria expects the curtain to end the performance._
-#### Scene 3: Aria's Desperately Resists the Curtain
+#### Scene 3: *Aria's Desperately Resists the Curtain*
 
 ##### chorus: _lift me up_
 
@@ -715,7 +715,7 @@ _From offstage, CHOIR sings:_
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=1887766999/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/lift-me-up">Lift Me Up by Katarina Ranković</a></iframe>
 
-#### Scene 4: Aria Bitterly Accepts her Doom
+#### Scene 4: *Aria Bitterly Accepts her Doom*
 
 ##### chorus: _frozen_
 > I’m beginning to realise  
@@ -851,7 +851,7 @@ _From offstage, CHOIR sings:_
 
 ### Act IV: _resound_
 
-#### Scene 1: The Curtain Touches Aria and Reveals Echoes
+#### Scene 1: *The Curtain Touches Aria and Reveals Echoes*
 _What seemed like a murderous descent by the curtain changes character as we see it hovers within reach, there to comfort her. Then the touch._
 
 Sistine chapel, Totoro.
@@ -899,7 +899,7 @@ _While illustrating ARIA’s epiphany, these images also act as subliminal messa
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=401629175/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/airborn-sojourn">Airborn Sojourn by Katarina Ranković</a></iframe>
 
-#### Scene 2: Aria Contemplates her Afterlife / Interlife
+#### Scene 2: *Aria Contemplates her Afterlife / Interlife*
 
 ##### chorus: _without without_
 
@@ -1017,7 +1017,7 @@ _While illustrating ARIA’s epiphany, these images also act as subliminal messa
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=307752619/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/aria-where-are-ya">Aria, Where Are Ya? by Katarina Ranković</a></iframe>
 
-#### Scene 3: Aria Prays for a Good Ending
+#### Scene 3: *Aria Prays for a Good Ending*
 Could make this sound like 'from page to eye', but the reverse: send the song into the world). She calls the curtain down like the cover of night (like my God story - a resetting, a sleep, a forgetting, a slate clearing. He is the janitor of the performance.)
 
 ##### chorus: _origami_
@@ -1046,7 +1046,7 @@ Could make this sound like 'from page to eye', but the reverse: send the song in
 
 **THE END**
 
-#### Epilogue: The Performance Ends and Aria's Interlife Begins
+#### Epilogue: *The Performance Ends and Aria's Interlife Begins*
 Applause and the beginning of Aria's interlife.
 
 ### songs in progress
