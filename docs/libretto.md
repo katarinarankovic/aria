@@ -319,6 +319,8 @@ _The CHOIR half-crouches in suspense as they utter the first line: "shhhh...", t
 ##### air: *little life*
 *A standing wave appears in the movement of the choir, ticking back and forth to the beat. AVATAR monitors it closely as if guarding it preciously. A trio of SINGERS encircle the wave and sing:*
 
+![Animation of a standing wave in a stationary medium with marked wave nodes](assets/standing_wave.gif "Lucas Vieira, Public domain, via Wikimedia Commons")
+
 > what is this little life  
 > which quickens with a sigh?  
 > it wants to stay a while    
