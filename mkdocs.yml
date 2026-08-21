@@ -8,7 +8,7 @@ theme:
     scheme: default
     primary: black
     accent: gray
-  logo: assets/logo.png
+  logo: assets/aria-and-the-curtain.png
   features:
     - navigation.instant
     - navigation.tracking
