@@ -79,7 +79,7 @@ Or will she? Perhaps the performance continues, and perhaps Aria lingers somewhe
 
 ## libretto
 
-### act one: _revive_
+### Act I: _Revive_
 
 #### Prologue: *Waiting for the Performance to Begin*
 _The Curtain is fully raised and the house lights are on. The stage is set for a recital, with the MUSICIANS and CHOIR present on stage before the AUDIENCE has been let into the performance space._
@@ -400,7 +400,7 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2160196567/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/my-blood">My Blood by Katarina Ranković</a></iframe>
 
-### act two: *retrace*
+### Act II: *Retrace*
 
 #### Scene 1: Aria Considers Her Next Quest
 
@@ -657,7 +657,7 @@ Is there a way she can take her mortality into her own hands, extend her conscio
 
 "_Slightly embarrassed at her excess, which she realises will be taken for the melodrama expected of operas, ARIA suddenly becomes self-conscious in front of the awaiting AUDIENCE. Her AVATAR stares out sheepishly, lifting a hand to shield her eyes from the blinding lights, and an unseen microphone somewhere shrieks with momentary interference. The CHOIR and MUSICIANS wait quietly and patiently, as if for a conductor who has not yet appeared._"
 
-### act three: resist
+### Act III: resist
 
 #### Scene 1: Aria Attempts to Earn Her Stay with Captivation (Scheherazade)
 
@@ -849,7 +849,7 @@ _From offstage, CHOIR sings:_
 <!-- audio -->
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2876736569/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/track/let-my-pieces-scatter">Let My Pieces Scatter by Katarina Ranković</a></iframe>
 
-### act four: _resound_
+### Act IV: _resound_
 
 #### Scene 1: The Curtain Touches Aria and Reveals Echoes
 _What seemed like a murderous descent by the curtain changes character as we see it hovers within reach, there to comfort her. Then the touch._
