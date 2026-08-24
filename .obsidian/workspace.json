@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed2e514ab21d0e31",
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md",
+                "file": "workflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of workflow"
             }
           }
         ],
@@ -213,16 +212,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "31924cb9a8b3f49a",
+  "active": "0291f3d741704224",
   "lastOpenFiles": [
     "docs/libretto.md",
+    "docs/index.md",
     "docs/assets/test-logo.png",
     "docs/assets/aria-and-the-curtain.png",
     "docs/assets/standing_wave.gif",
     "workflow.md",
     "docs/license.md",
     "docs/contributing.md",
-    "docs/sketches.md",
-    "docs/index.md"
+    "docs/sketches.md"
   ]
 }

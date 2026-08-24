@@ -12,6 +12,13 @@ Sometimes MkDocs doesn’t auto-reload the browser tab. Two easy fixes:
 - just refresh the browser tab manually, or
 - restart the server (Ctrl+C in Terminal, then run `python3 -m mkdocs serve` again)
 
+## Useful Tabs
+
+- Libretto on local server
+- [Bandcamp](https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain)
+- [Theodora](https://imslp.org/wiki/Theodora,_HWV_68_(Handel,_George_Frideric))
+- [My YT videos](https://studio.youtube.com/channel/UCNWzqZdMgiKF9nU3qB3RMWw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+
 ## libretto key
 
 *Italics* = stage directions
