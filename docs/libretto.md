@@ -221,13 +221,14 @@ _AVATAR sinks, overwhelmed, to the floor. The SINGER nearest to her subconscious
 ##### chorus: _in this room_
 
 > in this room  
-> in this room  
 > I hear my voice but  
 > I can’t seem to find myself  
 >
 > as though I am slipping  
 > slipping through their tongues  
 
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1439858288/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
 _CHOIR begins to break its formation. A SINGER in their midst approaches another SINGER, and reaches out to touch her hair curiously, as though they have noticed something in it. As SINGER speaks, they are echoed by a smattering of voices in their half of the choir. As the second SINGER responds, the echo is repeated in her half of the choir like twinkling reflections._
 
@@ -408,6 +409,14 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 
 they have not always been noble.
 
+*Pairs of SINGERS turn towards each other and hold each other's cheeks as they sing.*
+
+Good people
+Do you remember me?
+How else could you have sought me
+
+
+
 #### Scene 2: *Aria Revisits Her Past Incarnations*
 
 When I look back and see
@@ -468,6 +477,9 @@ thundering or whispering my own name
 ##### eureka shower
 
 ##### zealous rally
+
+I oscillate with the brave
+and witness as they fall into their graves
 
 ##### lullaby for Lena
 
