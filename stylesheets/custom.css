@@ -1,0 +1,22 @@
+/* Turn ALL blockquotes into grey boxes */
+.md-typeset blockquote {
+  background: #f0f0f0;
+  border-left: 4px solid #c7c7c7;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+/* Tighten lyric line spacing inside the box */
+.md-typeset blockquote p {
+  margin: 0.15rem 0;
+}
+
+/* Lyric stanza spacing inside blockquotes */
+.md-typeset blockquote p {
+  margin: 0.25em 0;          /* tight within a stanza */
+}
+
+.md-typeset blockquote p + p {
+  margin-top: 0.9em;         /* bigger gap between stanzas */
+}
