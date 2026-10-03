@@ -407,51 +407,49 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 
 #### Scene 1: *Aria Considers Her Next Quest*
 
-they have not always been noble.
-
-*Pairs of SINGERS turn towards each other and hold each other's cheeks as they sing.*
-
-Good people
-Do you remember me?
-How else could you have sought me
-
 
 
 #### Scene 2: *Aria Revisits Her Past Incarnations*
 
-When I look back and see
-Just how far I've come
-I see my fate swinging
-like a pendulum
+*A fraught vision, like the inexplicable dream montages that appear to us as we toss and turn in the night, flickers across the stage. It seems like the visual equivalent of tuning a radio. Memories rewind, fast forward, cut to another scene, and foreground trivial details: the crunch of an apple, a meteor shower, the perturbed flight of fleeing geese, a grazed knee. This jarring montage now speeds up to the point of turning into streams of light: smoother, calmer, like soaring rays of time travel. Aria recalls the centuries into which she has repeatedly dived and resurfaced, weaving in and out of time through her wakefulness and sleep.*
 
-I am moved by the ages
-turning under me like a rolling belt
-the present is lonely
-echoed in the past is how Song is felt
+##### chorus: *I am moved by the ages*
+> when I look back and see  
+>  how far I've come  
+>  I see my fate swinging  
+>  like a pendulum  
+>  
+>  I am moved by the ages  
+>  turning under me like a rolling belt  
+>  the present is lonely  
+>  echoed in the past is how Song is felt
 
-I flash in and out of time
-thundering or whispering my own name
+>I flash in and out of time  
+>thundering or whispering my own name
 
+*ARIA begins to revisit her past incarnations, lingering on certain memories. These appear as a series of five vignettes, one after the other: a patrolling POLICE OFFICER humming to herself, a chorus of CHILDREN parroting their TEACHER, a MAN in a shower having a 'eureka moment', a CROWD chanting at a rally, and a HUSBAND singing a lullaby to his WIFE on her deathbed. The scene changes occur swiftly, with SINGERS transforming into new characters in front of the AUDIENCE, and with the set appearing to rotate and give way to new scenes as one song leads into the next.*
 
-##### aria: _he found me haunting_ (police patrol)
+*The first vignette is a dark, quiet street lit by one streetlight and one POLICE OFFICER patrolling. She begins to hum a tune. The MUSICIANS accompany the melody and the aria begins.*
+
+##### aria: _she found me haunting_ 
 > sometimes I find myself outside  
 > where usual rules do not apply  
 > thus left alone, my time I bide  
 > until someone in me confides  
 >
-> I hear him walking down the street  
-> his footfall regular and neat  
+> I hear her walking down the street  
+> her footfall regular and neat  
 > I thought it would be quite so sweet  
-> if I were to intrude his beat  
+> if I were to intrude her beat  
 >
-> and then I fall upon his lips one time  
-> the tune he thinks, tastes so divine  
+> and then I fall upon her lips one time  
+> the tune she thinks, tastes so divine  
 > it’s bittersweet like aged wine  
-> he is this way inclined!  
+> she is this way inclined!  
 >
-> he found me haunting, wanting  
+> she found me haunting, wanting  
 > haunting, wanting  
-> he found me haunting, wanting  
+> she found me haunting, wanting  
 > haunting, wanting  
 >
 > I’m just a possibility  
@@ -472,21 +470,54 @@ thundering or whispering my own name
   </div>
 </div>
 
+*The second vignette is a classroom scene. School children sit cross-legged on the floor droning a chant with bored looks on their faces.*
 ##### classroom chorus
 
-##### eureka shower
+...
 
-##### zealous rally
+*The third vignette is a bathroom scene. A man showers, singing cheerfully to himself off-key. On the last note, he realises he's hit on a great idea, and rushes out of the shower still covered in soap bubbles to record his discovery.*
+##### aria: *eureka*
 
-I oscillate with the brave
-and witness as they fall into their graves
+...
+> eureka!
 
-##### lullaby for Lena
+*The fourth vignette is a zealous rally on a city square. A speaker hypes the crowd up to a frenzy of support. The crowd chants:*
+##### chorus: *I oscillate with the brave*
+
+> song part 1...
+
+
+*Mid-song, the crowd transforms into a military frontline with soldiers surging forward but repeatedly falling away in great numbers. The soldiers chant:*
+
+> I oscillate with the brave  
+> and witness as they fall into their graves  
+> I compete to be the echo of the day  
+> and race the bullets as they ricochet
+
+*The fifth vignette is a hospice room. There is a bed in which lies a dying woman lies. Her husband sits at her side bent over her body, holding her hand and singing her a lullaby.*
+##### aria: *lullaby for Lena*
+> lu-lu-lu-lu-lullaby for Lena  
+> I soften her passage from this world  
+> but she can't take the final steps alone  
+> she falters ...
+
+##### chorus: *I am moved by the ages*
+
+(repeat this song to close.)
 
 #### Scene 3: *Aria is Summoned for a Present Need*
 
 Having been conjured at this present performance now taking place, Aria realises she has been called once again, voted into existence by a common will. This means she still serves a need. 
 
+*Pairs of SINGERS turn towards each other and hold each other's cheeks as they sing.*
+
+> good people  
+> do you remember me?  
+> how else could you have sought me?  
+> 
+> maybe I cried  
+> even as I did sleep  
+> hoping that you would wake me
 
 #### Scene 4: *Aria Recognises her Dependency on the People*
 These conditions leave her always at the mercy of external forces and there is always the possibility that she will become redundant, censored, or altogether forgotten some day. Aria is  aware that a fundamental, brutal democracy governs her chances of survival. As a living song, she relies on repetition to persist and survive over time. With this creeping recognition of the fragility of her existence, and the fundamental way in which the meaning of her life is wrapped up in mortal people and the tumultuous context that abounds beyond the theatre walls, Aria begins to develop anxiety about her continued existence. 
