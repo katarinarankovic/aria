@@ -383,7 +383,7 @@ _AVATAR walks out onto Centre Stage with determination. ARIA is beginning to fee
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=4072655832/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
 ##### chorus: _my blood_
-_The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off her might. The auditorium is thundering with the pangs of containing her ARIA's life force._
+_The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off her might. AVATAR stands in the CHOIR's midst, staring at her hands and the AUDIENCE in awe of the mounting sense of power about her. Her dance continues to conduct waves and splashes in the CHOIR, this time more dramatic, reaching a crescendo on the lines "oh I quiver...". The auditorium is thundering with the pangs of containing ARIA's life force._
 
 > I am made  
 > of the stuff of earthquakes  
@@ -391,7 +391,7 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 > earth and air I shift and shake  
 > when I move across the stage  
 >
-> oh I quiver!
+> oh I quiver!  
 > and I shiver!  
 > I’m sheer life-giver!  
 >
@@ -406,26 +406,63 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 ### Act II: *Retrace*
 
 #### Scene 1: *Aria Considers Her Next Quest*
+*Members of the CHOIR hold their hands behind their backs and pace a few steps forwards and back in sweeping motions, their heads bent slightly, as if in contemplation. The sound of their feet stepping and brushing across the floor accompanies their murmurous chant. AVATAR sits on the edge of the stage and gazes out at the AUDIENCE in deep thought.*
+
+##### chorus: *great deeds*
+whatever shall this life
+hold in store
+for me?
+
+I waited for an age
+to escape 
+serenity
+
+the time has come to rise
+and author
+great deeds
+
+imprint my name on 
+time, and rewrite
+destiny
 
 
+*A ticking sound emerges, reminiscent of the beat in 'little life'. Members of the CHOIR raise their hands and contemplate them as they recite:*
+
+##### recitative: *pendulum*
+> when I look back and see  
+> just how far I've come  
+> I watch my fate swinging  
+> like a pendulum  
+> 
+> my time ever ticking,  
+> still idly I question:  
+> what cause to commit to  
+> 'ere I come undone?
+> 
+> for many lives I have indeed lived
+> as a passenger in the people's midst
+> an instrument of both good and evil 
+>  memory retrieval
+
+
+<!-- audio -->
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2706254773/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=4225029603/transparent=true/" seamless><a href="https://katarinarankovic.bandcamp.com/album/aria-and-the-curtain">Aria and the Curtain by Katarina Ranković</a></iframe>
 
 #### Scene 2: *Aria Revisits Her Past Incarnations*
 
-*A fraught vision, like the inexplicable dream montages that appear to us as we toss and turn in the night, flickers across the stage. It seems like the visual equivalent of tuning a radio. Memories rewind, fast forward, cut to another scene, and foreground trivial details: the crunch of an apple, a meteor shower, the perturbed flight of fleeing geese, a grazed knee. This jarring montage now speeds up to the point of turning into streams of light: smoother, calmer, like soaring rays of time travel. Aria recalls the centuries into which she has repeatedly dived and resurfaced, weaving in and out of time through her wakefulness and sleep.*
+*The CHOIR breaks its formation and wanders slowly but haphazardly around the stage, as if disoriented. A fraught vision, like the dream montages that appear to us as we toss and turn in the night, flickers across the back wall. It seems like the visual equivalent of a tuning radio. Memories rewind, fast forward, cut to another scene, and foreground trivial details: the crunch of an apple, a meteor shower, the perturbed flight of fleeing geese, a grazed knee. This jarring montage now speeds up to the point of turning into streams of light: smoother, calmer, like soaring rays of time travel. Aria recalls the centuries into which she has repeatedly dived and resurfaced, weaving in and out of time through her wakefulness and sleep.*
 
 ##### chorus: *I am moved by the ages*
-> when I look back and see  
->  how far I've come  
->  I see my fate swinging  
->  like a pendulum  
->  
+
 >  I am moved by the ages  
 >  turning under me like a rolling belt  
 >  the present is lonely  
 >  echoed in the past is how Song is felt
 
 >I flash in and out of time  
->thundering or whispering my own name
+>thundering, then whispering my own name  
+>
+>onto which I lay claim
 
 *ARIA begins to revisit her past incarnations, lingering on certain memories. These appear as a series of five vignettes, one after the other: a patrolling POLICE OFFICER humming to herself, a chorus of CHILDREN parroting their TEACHER, a MAN in a shower having a 'eureka moment', a CROWD chanting at a rally, and a HUSBAND singing a lullaby to his WIFE on her deathbed. The scene changes occur swiftly, with SINGERS transforming into new characters in front of the AUDIENCE, and with the set appearing to rotate and give way to new scenes as one song leads into the next.*
 
@@ -492,9 +529,10 @@ _The seas of the CHOIR become fiery and tempestuous as ARIA rises to show off he
 > I oscillate with the brave  
 > and witness as they fall into their graves  
 > I compete to be the echo of the day  
-> and race the bullets as they ricochet
+> and race the bullets as they ricochet  
 
 *The fifth vignette is a hospice room. There is a bed in which lies a dying woman lies. Her husband sits at her side bent over her body, holding her hand and singing her a lullaby.*
+
 ##### aria: *lullaby for Lena*
 > lu-lu-lu-lu-lullaby for Lena  
 > I soften her passage from this world  
